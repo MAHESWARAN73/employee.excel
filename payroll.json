@@ -1,0 +1,8502 @@
+[
+  {
+    "name": "Amber Butler",
+    "Employee_ID": 1,
+    "salary": 158538,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 1,
+        "Date": 45413,
+        "Login Time": "08:27:00",
+        "Logout Time": "14:27:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 1,
+        "Date": 45414,
+        "Login Time": "08:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 1,
+        "Date": 45415,
+        "Login Time": "10:51:00",
+        "Logout Time": "20:51:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 1,
+        "Date": 45418,
+        "Login Time": "09:06:00",
+        "Logout Time": "18:06:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45419,
+        "Login Time": "08:56:00",
+        "Logout Time": "18:56:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 1,
+        "Date": 45420,
+        "Login Time": "07:35:00",
+        "Logout Time": "16:35:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45421,
+        "Login Time": "08:40:00",
+        "Logout Time": "14:40:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 1,
+        "Date": 45422,
+        "Login Time": "07:04:00",
+        "Logout Time": "16:04:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45425,
+        "Login Time": "07:53:00",
+        "Logout Time": "15:53:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 1,
+        "Date": 45426,
+        "Login Time": "10:13:00",
+        "Logout Time": "19:13:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45427,
+        "Login Time": "10:17:00",
+        "Logout Time": "17:17:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 1,
+        "Date": 45428,
+        "Login Time": "10:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 1,
+        "Date": 45429,
+        "Login Time": "08:35:00",
+        "Logout Time": "18:35:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 1,
+        "Date": 45432,
+        "Login Time": "08:52:00",
+        "Logout Time": "17:52:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45433,
+        "Login Time": "07:10:00",
+        "Logout Time": "13:10:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 1,
+        "Date": 45434,
+        "Login Time": "10:40:00",
+        "Logout Time": "19:40:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45435,
+        "Login Time": "08:23:00",
+        "Logout Time": "15:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 1,
+        "Date": 45436,
+        "Login Time": "10:06:00",
+        "Logout Time": "19:06:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45439,
+        "Login Time": "10:22:00",
+        "Logout Time": "19:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 1,
+        "Date": 45440,
+        "Login Time": "08:26:00",
+        "Logout Time": "15:26:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 1,
+        "Date": 45441,
+        "Login Time": "10:27:00",
+        "Logout Time": "20:27:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 1,
+        "Date": 45442,
+        "Login Time": "08:28:00",
+        "Logout Time": "16:28:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 1,
+        "Date": 45443,
+        "Login Time": "08:20:00",
+        "Logout Time": "15:20:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 150611.1
+  },
+  {
+    "name": "Lisa Brown",
+    "Employee_ID": 2,
+    "salary": 149165,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 2,
+        "Date": 45413,
+        "Login Time": "10:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 2,
+        "Date": 45414,
+        "Login Time": "08:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 2,
+        "Date": 45415,
+        "Login Time": "07:07:00",
+        "Logout Time": "14:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 2,
+        "Date": 45418,
+        "Login Time": "10:35:00",
+        "Logout Time": "17:35:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 2,
+        "Date": 45419,
+        "Login Time": "10:28:00",
+        "Logout Time": "16:28:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 2,
+        "Date": 45420,
+        "Login Time": "10:59:00",
+        "Logout Time": "17:59:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 2,
+        "Date": 45421,
+        "Login Time": "10:21:00",
+        "Logout Time": "20:21:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 2,
+        "Date": 45422,
+        "Login Time": "09:00:00",
+        "Logout Time": "19:00:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 2,
+        "Date": 45425,
+        "Login Time": "07:31:00",
+        "Logout Time": "13:31:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 2,
+        "Date": 45426,
+        "Login Time": "10:45:00",
+        "Logout Time": "18:45:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 2,
+        "Date": 45427,
+        "Login Time": "10:17:00",
+        "Logout Time": "16:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 2,
+        "Date": 45428,
+        "Login Time": "09:46:00",
+        "Logout Time": "19:46:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 2,
+        "Date": 45429,
+        "Login Time": "09:12:00",
+        "Logout Time": "17:12:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 2,
+        "Date": 45432,
+        "Login Time": "10:38:00",
+        "Logout Time": "19:38:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 2,
+        "Date": 45433,
+        "Login Time": "07:18:00",
+        "Logout Time": "15:18:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 2,
+        "Date": 45434,
+        "Login Time": "08:56:00",
+        "Logout Time": "18:56:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 2,
+        "Date": 45435,
+        "Login Time": "10:43:00",
+        "Logout Time": "19:43:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 2,
+        "Date": 45436,
+        "Login Time": "08:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 2,
+        "Date": 45439,
+        "Login Time": "07:58:00",
+        "Logout Time": "16:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 2,
+        "Date": 45440,
+        "Login Time": "10:27:00",
+        "Logout Time": "17:27:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 2,
+        "Date": 45441,
+        "Login Time": "10:58:00",
+        "Logout Time": "17:58:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 2,
+        "Date": 45442,
+        "Login Time": "08:19:00",
+        "Logout Time": "14:19:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 2,
+        "Date": 45443,
+        "Login Time": "09:41:00",
+        "Logout Time": "18:41:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 149165
+  },
+  {
+    "name": "Brandon Estes",
+    "Employee_ID": 3,
+    "salary": 105020,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 3,
+        "Date": 45413,
+        "Login Time": "08:30:00",
+        "Logout Time": "15:30:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 3,
+        "Date": 45414,
+        "Login Time": "08:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 3,
+        "Date": 45415,
+        "Login Time": "09:15:00",
+        "Logout Time": "18:15:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 3,
+        "Date": 45418,
+        "Login Time": "08:33:00",
+        "Logout Time": "18:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 3,
+        "Date": 45419,
+        "Login Time": "07:27:00",
+        "Logout Time": "13:27:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 3,
+        "Date": 45420,
+        "Login Time": "09:09:00",
+        "Logout Time": "17:09:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 3,
+        "Date": 45421,
+        "Login Time": "10:06:00",
+        "Logout Time": "19:06:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 3,
+        "Date": 45422,
+        "Login Time": "07:53:00",
+        "Logout Time": "13:53:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 3,
+        "Date": 45425,
+        "Login Time": "09:10:00",
+        "Logout Time": "16:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 3,
+        "Date": 45426,
+        "Login Time": "09:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 3,
+        "Date": 45427,
+        "Login Time": "10:33:00",
+        "Logout Time": "19:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 3,
+        "Date": 45428,
+        "Login Time": "07:20:00",
+        "Logout Time": "15:20:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 3,
+        "Date": 45429,
+        "Login Time": "08:08:00",
+        "Logout Time": "15:08:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 3,
+        "Date": 45432,
+        "Login Time": "09:41:00",
+        "Logout Time": "15:41:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 3,
+        "Date": 45433,
+        "Login Time": "07:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 3,
+        "Date": 45434,
+        "Login Time": "09:12:00",
+        "Logout Time": "17:12:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 3,
+        "Date": 45435,
+        "Login Time": "09:53:00",
+        "Logout Time": "18:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 3,
+        "Date": 45436,
+        "Login Time": "07:06:00",
+        "Logout Time": "15:06:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 3,
+        "Date": 45439,
+        "Login Time": "10:36:00",
+        "Logout Time": "17:36:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 3,
+        "Date": 45440,
+        "Login Time": "07:42:00",
+        "Logout Time": "17:42:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 3,
+        "Date": 45441,
+        "Login Time": "07:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 3,
+        "Date": 45442,
+        "Login Time": "08:29:00",
+        "Logout Time": "16:29:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 3,
+        "Date": 45443,
+        "Login Time": "08:48:00",
+        "Logout Time": "18:48:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 98018.66666666667
+  },
+  {
+    "name": "Rebecca Young",
+    "Employee_ID": 4,
+    "salary": 175778,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 4,
+        "Date": 45413,
+        "Login Time": "10:06:00",
+        "Logout Time": "17:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 4,
+        "Date": 45414,
+        "Login Time": "09:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 4,
+        "Date": 45415,
+        "Login Time": "09:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45418,
+        "Login Time": "09:00:00",
+        "Logout Time": "18:00:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45419,
+        "Login Time": "10:20:00",
+        "Logout Time": "19:20:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45420,
+        "Login Time": "09:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 4,
+        "Date": 45421,
+        "Login Time": "07:28:00",
+        "Logout Time": "14:28:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 4,
+        "Date": 45422,
+        "Login Time": "10:56:00",
+        "Logout Time": "17:56:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 4,
+        "Date": 45425,
+        "Login Time": "08:38:00",
+        "Logout Time": "17:38:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45426,
+        "Login Time": "09:33:00",
+        "Logout Time": "15:33:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 4,
+        "Date": 45427,
+        "Login Time": "10:17:00",
+        "Logout Time": "16:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 4,
+        "Date": 45428,
+        "Login Time": "09:29:00",
+        "Logout Time": "18:29:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45429,
+        "Login Time": "08:47:00",
+        "Logout Time": "18:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 4,
+        "Date": 45432,
+        "Login Time": "10:50:00",
+        "Logout Time": "20:50:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 4,
+        "Date": 45433,
+        "Login Time": "10:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 4,
+        "Date": 45434,
+        "Login Time": "10:28:00",
+        "Logout Time": "18:28:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 4,
+        "Date": 45435,
+        "Login Time": "10:35:00",
+        "Logout Time": "20:35:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 4,
+        "Date": 45436,
+        "Login Time": "08:10:00",
+        "Logout Time": "17:10:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45439,
+        "Login Time": "08:01:00",
+        "Logout Time": "17:01:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45440,
+        "Login Time": "08:12:00",
+        "Logout Time": "15:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 4,
+        "Date": 45441,
+        "Login Time": "08:33:00",
+        "Logout Time": "15:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 4,
+        "Date": 45442,
+        "Login Time": "09:50:00",
+        "Logout Time": "18:50:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 4,
+        "Date": 45443,
+        "Login Time": "10:41:00",
+        "Logout Time": "18:41:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 175778
+  },
+  {
+    "name": "Teresa Washington",
+    "Employee_ID": 5,
+    "salary": 66666,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 5,
+        "Date": 45413,
+        "Login Time": "09:59:00",
+        "Logout Time": "17:59:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 5,
+        "Date": 45414,
+        "Login Time": "10:27:00",
+        "Logout Time": "20:27:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45415,
+        "Login Time": "10:08:00",
+        "Logout Time": "18:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 5,
+        "Date": 45418,
+        "Login Time": "07:39:00",
+        "Logout Time": "14:39:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 5,
+        "Date": 45419,
+        "Login Time": "08:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45420,
+        "Login Time": "07:41:00",
+        "Logout Time": "14:41:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 5,
+        "Date": 45421,
+        "Login Time": "07:41:00",
+        "Logout Time": "14:41:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 5,
+        "Date": 45422,
+        "Login Time": "10:20:00",
+        "Logout Time": "17:20:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 5,
+        "Date": 45425,
+        "Login Time": "08:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45426,
+        "Login Time": "10:39:00",
+        "Logout Time": "17:39:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 5,
+        "Date": 45427,
+        "Login Time": "07:12:00",
+        "Logout Time": "15:12:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 5,
+        "Date": 45428,
+        "Login Time": "08:54:00",
+        "Logout Time": "18:54:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45429,
+        "Login Time": "10:59:00",
+        "Logout Time": "20:59:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45432,
+        "Login Time": "07:15:00",
+        "Logout Time": "17:15:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45433,
+        "Login Time": "08:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 5,
+        "Date": 45434,
+        "Login Time": "09:55:00",
+        "Logout Time": "18:55:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 5,
+        "Date": 45435,
+        "Login Time": "09:09:00",
+        "Logout Time": "16:09:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 5,
+        "Date": 45436,
+        "Login Time": "08:55:00",
+        "Logout Time": "14:55:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 5,
+        "Date": 45439,
+        "Login Time": "09:36:00",
+        "Logout Time": "15:36:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 5,
+        "Date": 45440,
+        "Login Time": "09:25:00",
+        "Logout Time": "15:25:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 5,
+        "Date": 45441,
+        "Login Time": "10:13:00",
+        "Logout Time": "20:13:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 5,
+        "Date": 45442,
+        "Login Time": "10:41:00",
+        "Logout Time": "18:41:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 5,
+        "Date": 45443,
+        "Login Time": "07:07:00",
+        "Logout Time": "15:07:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 62221.6
+  },
+  {
+    "name": "Christina Morrison",
+    "Employee_ID": 6,
+    "salary": 103420,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 6,
+        "Date": 45413,
+        "Login Time": "08:18:00",
+        "Logout Time": "18:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 6,
+        "Date": 45414,
+        "Login Time": "07:56:00",
+        "Logout Time": "14:56:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45415,
+        "Login Time": "08:39:00",
+        "Logout Time": "15:39:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45418,
+        "Login Time": "08:07:00",
+        "Logout Time": "15:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45419,
+        "Login Time": "09:58:00",
+        "Logout Time": "17:58:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 6,
+        "Date": 45420,
+        "Login Time": "10:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 6,
+        "Date": 45421,
+        "Login Time": "10:37:00",
+        "Logout Time": "20:37:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 6,
+        "Date": 45422,
+        "Login Time": "08:04:00",
+        "Logout Time": "15:04:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45425,
+        "Login Time": "09:36:00",
+        "Logout Time": "17:36:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 6,
+        "Date": 45426,
+        "Login Time": "09:45:00",
+        "Logout Time": "16:45:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45427,
+        "Login Time": "08:55:00",
+        "Logout Time": "16:55:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 6,
+        "Date": 45428,
+        "Login Time": "09:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 6,
+        "Date": 45429,
+        "Login Time": "08:56:00",
+        "Logout Time": "18:56:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 6,
+        "Date": 45432,
+        "Login Time": "07:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45433,
+        "Login Time": "09:21:00",
+        "Logout Time": "16:21:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45434,
+        "Login Time": "09:52:00",
+        "Logout Time": "18:52:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 6,
+        "Date": 45435,
+        "Login Time": "10:35:00",
+        "Logout Time": "20:35:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 6,
+        "Date": 45436,
+        "Login Time": "07:06:00",
+        "Logout Time": "16:06:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 6,
+        "Date": 45439,
+        "Login Time": "08:21:00",
+        "Logout Time": "16:21:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 6,
+        "Date": 45440,
+        "Login Time": "07:37:00",
+        "Logout Time": "14:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 6,
+        "Date": 45441,
+        "Login Time": "10:53:00",
+        "Logout Time": "19:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 6,
+        "Date": 45442,
+        "Login Time": "10:09:00",
+        "Logout Time": "19:09:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 6,
+        "Date": 45443,
+        "Login Time": "09:41:00",
+        "Logout Time": "16:41:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 96525.33333333333
+  },
+  {
+    "name": "Heidi Cruz",
+    "Employee_ID": 7,
+    "salary": 168854,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 7,
+        "Date": 45413,
+        "Login Time": "07:02:00",
+        "Logout Time": "16:02:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 7,
+        "Date": 45414,
+        "Login Time": "07:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 7,
+        "Date": 45415,
+        "Login Time": "09:58:00",
+        "Logout Time": "15:58:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45418,
+        "Login Time": "07:21:00",
+        "Logout Time": "16:21:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 7,
+        "Date": 45419,
+        "Login Time": "08:58:00",
+        "Logout Time": "17:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 7,
+        "Date": 45420,
+        "Login Time": "08:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 7,
+        "Date": 45421,
+        "Login Time": "07:55:00",
+        "Logout Time": "13:55:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45422,
+        "Login Time": "10:28:00",
+        "Logout Time": "16:28:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45425,
+        "Login Time": "07:52:00",
+        "Logout Time": "13:52:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45426,
+        "Login Time": "10:44:00",
+        "Logout Time": "18:44:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 7,
+        "Date": 45427,
+        "Login Time": "07:22:00",
+        "Logout Time": "13:22:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45428,
+        "Login Time": "08:34:00",
+        "Logout Time": "15:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 7,
+        "Date": 45429,
+        "Login Time": "07:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 7,
+        "Date": 45432,
+        "Login Time": "08:46:00",
+        "Logout Time": "18:46:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 7,
+        "Date": 45433,
+        "Login Time": "10:39:00",
+        "Logout Time": "18:39:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 7,
+        "Date": 45434,
+        "Login Time": "07:34:00",
+        "Logout Time": "15:34:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 7,
+        "Date": 45435,
+        "Login Time": "09:05:00",
+        "Logout Time": "15:05:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45436,
+        "Login Time": "10:50:00",
+        "Logout Time": "16:50:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45439,
+        "Login Time": "08:53:00",
+        "Logout Time": "17:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 7,
+        "Date": 45440,
+        "Login Time": "09:15:00",
+        "Logout Time": "15:15:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 7,
+        "Date": 45441,
+        "Login Time": "10:00:00",
+        "Logout Time": "18:00:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 7,
+        "Date": 45442,
+        "Login Time": "08:46:00",
+        "Logout Time": "17:46:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 7,
+        "Date": 45443,
+        "Login Time": "10:04:00",
+        "Logout Time": "19:04:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 168854
+  },
+  {
+    "name": "Joshua Johnson",
+    "Employee_ID": 8,
+    "salary": 185491,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 8,
+        "Date": 45413,
+        "Login Time": "07:10:00",
+        "Logout Time": "15:10:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 8,
+        "Date": 45414,
+        "Login Time": "08:28:00",
+        "Logout Time": "17:28:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 8,
+        "Date": 45415,
+        "Login Time": "09:53:00",
+        "Logout Time": "19:53:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 8,
+        "Date": 45418,
+        "Login Time": "09:34:00",
+        "Logout Time": "15:34:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 8,
+        "Date": 45419,
+        "Login Time": "07:49:00",
+        "Logout Time": "14:49:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 8,
+        "Date": 45420,
+        "Login Time": "08:07:00",
+        "Logout Time": "15:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 8,
+        "Date": 45421,
+        "Login Time": "09:47:00",
+        "Logout Time": "19:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 8,
+        "Date": 45422,
+        "Login Time": "10:53:00",
+        "Logout Time": "19:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 8,
+        "Date": 45425,
+        "Login Time": "08:11:00",
+        "Logout Time": "18:11:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 8,
+        "Date": 45426,
+        "Login Time": "08:25:00",
+        "Logout Time": "16:25:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 8,
+        "Date": 45427,
+        "Login Time": "07:44:00",
+        "Logout Time": "14:44:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 8,
+        "Date": 45428,
+        "Login Time": "10:15:00",
+        "Logout Time": "16:15:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 8,
+        "Date": 45429,
+        "Login Time": "07:40:00",
+        "Logout Time": "16:40:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 8,
+        "Date": 45432,
+        "Login Time": "10:30:00",
+        "Logout Time": "19:30:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 8,
+        "Date": 45433,
+        "Login Time": "09:41:00",
+        "Logout Time": "18:41:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 8,
+        "Date": 45434,
+        "Login Time": "09:22:00",
+        "Logout Time": "19:22:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 8,
+        "Date": 45435,
+        "Login Time": "07:49:00",
+        "Logout Time": "15:49:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 8,
+        "Date": 45436,
+        "Login Time": "07:29:00",
+        "Logout Time": "13:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 8,
+        "Date": 45439,
+        "Login Time": "09:50:00",
+        "Logout Time": "18:50:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 8,
+        "Date": 45440,
+        "Login Time": "09:03:00",
+        "Logout Time": "16:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 8,
+        "Date": 45441,
+        "Login Time": "07:38:00",
+        "Logout Time": "14:38:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 8,
+        "Date": 45442,
+        "Login Time": "07:55:00",
+        "Logout Time": "13:55:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 8,
+        "Date": 45443,
+        "Login Time": "07:12:00",
+        "Logout Time": "14:12:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 173124.93333333332
+  },
+  {
+    "name": "Ryan Cunningham",
+    "Employee_ID": 9,
+    "salary": 64691,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 9,
+        "Date": 45413,
+        "Login Time": "08:49:00",
+        "Logout Time": "18:49:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45414,
+        "Login Time": "09:55:00",
+        "Logout Time": "19:55:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45415,
+        "Login Time": "07:13:00",
+        "Logout Time": "15:13:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 9,
+        "Date": 45418,
+        "Login Time": "09:28:00",
+        "Logout Time": "19:28:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45419,
+        "Login Time": "10:55:00",
+        "Logout Time": "16:55:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 9,
+        "Date": 45420,
+        "Login Time": "09:41:00",
+        "Logout Time": "17:41:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 9,
+        "Date": 45421,
+        "Login Time": "07:14:00",
+        "Logout Time": "14:14:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 9,
+        "Date": 45422,
+        "Login Time": "10:43:00",
+        "Logout Time": "20:43:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45425,
+        "Login Time": "09:06:00",
+        "Logout Time": "16:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 9,
+        "Date": 45426,
+        "Login Time": "07:33:00",
+        "Logout Time": "15:33:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 9,
+        "Date": 45427,
+        "Login Time": "10:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 9,
+        "Date": 45428,
+        "Login Time": "07:44:00",
+        "Logout Time": "13:44:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 9,
+        "Date": 45429,
+        "Login Time": "09:11:00",
+        "Logout Time": "17:11:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 9,
+        "Date": 45432,
+        "Login Time": "08:46:00",
+        "Logout Time": "16:46:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 9,
+        "Date": 45433,
+        "Login Time": "09:41:00",
+        "Logout Time": "19:41:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45434,
+        "Login Time": "10:15:00",
+        "Logout Time": "20:15:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45435,
+        "Login Time": "07:38:00",
+        "Logout Time": "13:38:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 9,
+        "Date": 45436,
+        "Login Time": "07:49:00",
+        "Logout Time": "17:49:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 9,
+        "Date": 45439,
+        "Login Time": "10:08:00",
+        "Logout Time": "17:08:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 9,
+        "Date": 45440,
+        "Login Time": "09:37:00",
+        "Logout Time": "15:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 9,
+        "Date": 45441,
+        "Login Time": "09:02:00",
+        "Logout Time": "17:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 9,
+        "Date": 45442,
+        "Login Time": "09:30:00",
+        "Logout Time": "15:30:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 9,
+        "Date": 45443,
+        "Login Time": "07:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 64691
+  },
+  {
+    "name": "Elizabeth Waller",
+    "Employee_ID": 10,
+    "salary": 185815,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 10,
+        "Date": 45413,
+        "Login Time": "09:30:00",
+        "Logout Time": "17:30:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 10,
+        "Date": 45414,
+        "Login Time": "09:49:00",
+        "Logout Time": "18:49:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 10,
+        "Date": 45415,
+        "Login Time": "08:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 10,
+        "Date": 45418,
+        "Login Time": "10:46:00",
+        "Logout Time": "16:46:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 10,
+        "Date": 45419,
+        "Login Time": "08:24:00",
+        "Logout Time": "18:24:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 10,
+        "Date": 45420,
+        "Login Time": "07:43:00",
+        "Logout Time": "17:43:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 10,
+        "Date": 45421,
+        "Login Time": "09:33:00",
+        "Logout Time": "17:33:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 10,
+        "Date": 45422,
+        "Login Time": "09:02:00",
+        "Logout Time": "16:02:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 10,
+        "Date": 45425,
+        "Login Time": "07:09:00",
+        "Logout Time": "13:09:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 10,
+        "Date": 45426,
+        "Login Time": "07:19:00",
+        "Logout Time": "16:19:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 10,
+        "Date": 45427,
+        "Login Time": "10:20:00",
+        "Logout Time": "18:20:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 10,
+        "Date": 45428,
+        "Login Time": "09:08:00",
+        "Logout Time": "17:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 10,
+        "Date": 45429,
+        "Login Time": "10:32:00",
+        "Logout Time": "16:32:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 10,
+        "Date": 45432,
+        "Login Time": "08:14:00",
+        "Logout Time": "16:14:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 10,
+        "Date": 45433,
+        "Login Time": "07:14:00",
+        "Logout Time": "14:14:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 10,
+        "Date": 45434,
+        "Login Time": "08:24:00",
+        "Logout Time": "15:24:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 10,
+        "Date": 45435,
+        "Login Time": "07:48:00",
+        "Logout Time": "13:48:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 10,
+        "Date": 45436,
+        "Login Time": "09:39:00",
+        "Logout Time": "19:39:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 10,
+        "Date": 45439,
+        "Login Time": "08:38:00",
+        "Logout Time": "16:38:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 10,
+        "Date": 45440,
+        "Login Time": "08:15:00",
+        "Logout Time": "18:15:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 10,
+        "Date": 45441,
+        "Login Time": "07:00:00",
+        "Logout Time": "13:00:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 10,
+        "Date": 45442,
+        "Login Time": "09:25:00",
+        "Logout Time": "16:25:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 10,
+        "Date": 45443,
+        "Login Time": "08:14:00",
+        "Logout Time": "16:14:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 170330.41666666666
+  },
+  {
+    "name": "Victoria Moore",
+    "Employee_ID": 11,
+    "salary": 184412,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 11,
+        "Date": 45413,
+        "Login Time": "08:08:00",
+        "Logout Time": "18:08:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 11,
+        "Date": 45414,
+        "Login Time": "09:29:00",
+        "Logout Time": "17:29:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 11,
+        "Date": 45415,
+        "Login Time": "10:28:00",
+        "Logout Time": "19:28:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45418,
+        "Login Time": "09:43:00",
+        "Logout Time": "18:43:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45419,
+        "Login Time": "07:26:00",
+        "Logout Time": "16:26:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45420,
+        "Login Time": "10:16:00",
+        "Logout Time": "17:16:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 11,
+        "Date": 45421,
+        "Login Time": "09:03:00",
+        "Logout Time": "16:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 11,
+        "Date": 45422,
+        "Login Time": "08:10:00",
+        "Logout Time": "14:10:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 11,
+        "Date": 45425,
+        "Login Time": "08:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45426,
+        "Login Time": "07:25:00",
+        "Logout Time": "15:25:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 11,
+        "Date": 45427,
+        "Login Time": "10:27:00",
+        "Logout Time": "19:27:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45428,
+        "Login Time": "09:14:00",
+        "Logout Time": "15:14:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 11,
+        "Date": 45429,
+        "Login Time": "09:53:00",
+        "Logout Time": "17:53:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 11,
+        "Date": 45432,
+        "Login Time": "08:34:00",
+        "Logout Time": "18:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 11,
+        "Date": 45433,
+        "Login Time": "10:31:00",
+        "Logout Time": "19:31:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45434,
+        "Login Time": "09:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 11,
+        "Date": 45435,
+        "Login Time": "07:32:00",
+        "Logout Time": "16:32:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45436,
+        "Login Time": "09:09:00",
+        "Logout Time": "16:09:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 11,
+        "Date": 45439,
+        "Login Time": "09:18:00",
+        "Logout Time": "19:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 11,
+        "Date": 45440,
+        "Login Time": "07:14:00",
+        "Logout Time": "16:14:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 11,
+        "Date": 45441,
+        "Login Time": "07:55:00",
+        "Logout Time": "17:55:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 11,
+        "Date": 45442,
+        "Login Time": "10:43:00",
+        "Logout Time": "18:43:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 11,
+        "Date": 45443,
+        "Login Time": "10:15:00",
+        "Logout Time": "16:15:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 175191.4
+  },
+  {
+    "name": "Paul Harris",
+    "Employee_ID": 12,
+    "salary": 107953,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 12,
+        "Date": 45413,
+        "Login Time": "10:02:00",
+        "Logout Time": "16:02:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 12,
+        "Date": 45414,
+        "Login Time": "09:11:00",
+        "Logout Time": "15:11:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 12,
+        "Date": 45415,
+        "Login Time": "09:21:00",
+        "Logout Time": "15:21:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 12,
+        "Date": 45418,
+        "Login Time": "10:08:00",
+        "Logout Time": "19:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 12,
+        "Date": 45419,
+        "Login Time": "08:37:00",
+        "Logout Time": "15:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 12,
+        "Date": 45420,
+        "Login Time": "09:02:00",
+        "Logout Time": "17:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 12,
+        "Date": 45421,
+        "Login Time": "08:08:00",
+        "Logout Time": "15:08:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 12,
+        "Date": 45422,
+        "Login Time": "09:14:00",
+        "Logout Time": "19:14:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 12,
+        "Date": 45425,
+        "Login Time": "10:56:00",
+        "Logout Time": "18:56:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 12,
+        "Date": 45426,
+        "Login Time": "09:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 12,
+        "Date": 45427,
+        "Login Time": "10:31:00",
+        "Logout Time": "20:31:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 12,
+        "Date": 45428,
+        "Login Time": "08:13:00",
+        "Logout Time": "16:13:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 12,
+        "Date": 45429,
+        "Login Time": "08:05:00",
+        "Logout Time": "15:05:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 12,
+        "Date": 45432,
+        "Login Time": "07:09:00",
+        "Logout Time": "17:09:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 12,
+        "Date": 45433,
+        "Login Time": "10:28:00",
+        "Logout Time": "17:28:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 12,
+        "Date": 45434,
+        "Login Time": "07:59:00",
+        "Logout Time": "15:59:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 12,
+        "Date": 45435,
+        "Login Time": "08:52:00",
+        "Logout Time": "14:52:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 12,
+        "Date": 45436,
+        "Login Time": "07:42:00",
+        "Logout Time": "16:42:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 12,
+        "Date": 45439,
+        "Login Time": "07:05:00",
+        "Logout Time": "15:05:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 12,
+        "Date": 45440,
+        "Login Time": "09:41:00",
+        "Logout Time": "15:41:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 12,
+        "Date": 45441,
+        "Login Time": "07:02:00",
+        "Logout Time": "14:02:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 12,
+        "Date": 45442,
+        "Login Time": "08:32:00",
+        "Logout Time": "14:32:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 12,
+        "Date": 45443,
+        "Login Time": "10:45:00",
+        "Logout Time": "19:45:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 107953
+  },
+  {
+    "name": "James Taylor",
+    "Employee_ID": 13,
+    "salary": 168663,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 13,
+        "Date": 45413,
+        "Login Time": "07:32:00",
+        "Logout Time": "14:32:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 13,
+        "Date": 45414,
+        "Login Time": "08:16:00",
+        "Logout Time": "14:16:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45415,
+        "Login Time": "10:34:00",
+        "Logout Time": "20:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 13,
+        "Date": 45418,
+        "Login Time": "08:56:00",
+        "Logout Time": "16:56:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 13,
+        "Date": 45419,
+        "Login Time": "09:47:00",
+        "Logout Time": "15:47:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45420,
+        "Login Time": "09:17:00",
+        "Logout Time": "15:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45421,
+        "Login Time": "08:49:00",
+        "Logout Time": "15:49:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 13,
+        "Date": 45422,
+        "Login Time": "10:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 13,
+        "Date": 45425,
+        "Login Time": "08:46:00",
+        "Logout Time": "16:46:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 13,
+        "Date": 45426,
+        "Login Time": "07:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 13,
+        "Date": 45427,
+        "Login Time": "08:08:00",
+        "Logout Time": "14:08:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45428,
+        "Login Time": "10:02:00",
+        "Logout Time": "20:02:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 13,
+        "Date": 45429,
+        "Login Time": "10:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45432,
+        "Login Time": "08:14:00",
+        "Logout Time": "17:14:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 13,
+        "Date": 45433,
+        "Login Time": "08:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 13,
+        "Date": 45434,
+        "Login Time": "08:23:00",
+        "Logout Time": "15:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 13,
+        "Date": 45435,
+        "Login Time": "08:59:00",
+        "Logout Time": "16:59:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 13,
+        "Date": 45436,
+        "Login Time": "10:01:00",
+        "Logout Time": "18:01:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 13,
+        "Date": 45439,
+        "Login Time": "08:43:00",
+        "Logout Time": "16:43:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 13,
+        "Date": 45440,
+        "Login Time": "07:23:00",
+        "Logout Time": "13:23:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45441,
+        "Login Time": "10:32:00",
+        "Logout Time": "16:32:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 13,
+        "Date": 45442,
+        "Login Time": "08:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 13,
+        "Date": 45443,
+        "Login Time": "10:07:00",
+        "Logout Time": "17:07:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 168663
+  },
+  {
+    "name": "Larry Pugh",
+    "Employee_ID": 14,
+    "salary": 165171,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 14,
+        "Date": 45413,
+        "Login Time": "09:44:00",
+        "Logout Time": "17:44:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 14,
+        "Date": 45414,
+        "Login Time": "10:01:00",
+        "Logout Time": "20:01:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 14,
+        "Date": 45415,
+        "Login Time": "09:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 14,
+        "Date": 45418,
+        "Login Time": "08:00:00",
+        "Logout Time": "15:00:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 14,
+        "Date": 45419,
+        "Login Time": "08:26:00",
+        "Logout Time": "17:26:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 14,
+        "Date": 45420,
+        "Login Time": "09:54:00",
+        "Logout Time": "15:54:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 14,
+        "Date": 45421,
+        "Login Time": "08:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 14,
+        "Date": 45422,
+        "Login Time": "08:49:00",
+        "Logout Time": "14:49:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 14,
+        "Date": 45425,
+        "Login Time": "08:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 14,
+        "Date": 45426,
+        "Login Time": "10:14:00",
+        "Logout Time": "19:14:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 14,
+        "Date": 45427,
+        "Login Time": "09:45:00",
+        "Logout Time": "16:45:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 14,
+        "Date": 45428,
+        "Login Time": "08:02:00",
+        "Logout Time": "18:02:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 14,
+        "Date": 45429,
+        "Login Time": "08:28:00",
+        "Logout Time": "18:28:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 14,
+        "Date": 45432,
+        "Login Time": "09:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 14,
+        "Date": 45433,
+        "Login Time": "09:46:00",
+        "Logout Time": "17:46:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 14,
+        "Date": 45434,
+        "Login Time": "10:48:00",
+        "Logout Time": "17:48:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 14,
+        "Date": 45435,
+        "Login Time": "10:06:00",
+        "Logout Time": "18:06:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 14,
+        "Date": 45436,
+        "Login Time": "07:59:00",
+        "Logout Time": "15:59:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 14,
+        "Date": 45439,
+        "Login Time": "07:26:00",
+        "Logout Time": "13:26:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 14,
+        "Date": 45440,
+        "Login Time": "09:04:00",
+        "Logout Time": "15:04:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 14,
+        "Date": 45441,
+        "Login Time": "07:49:00",
+        "Logout Time": "17:49:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 14,
+        "Date": 45442,
+        "Login Time": "09:06:00",
+        "Logout Time": "19:06:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 14,
+        "Date": 45443,
+        "Login Time": "08:39:00",
+        "Logout Time": "16:39:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 151406.75
+  },
+  {
+    "name": "Mary Moyer",
+    "Employee_ID": 15,
+    "salary": 80337,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 15,
+        "Date": 45413,
+        "Login Time": "09:27:00",
+        "Logout Time": "18:27:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45414,
+        "Login Time": "07:08:00",
+        "Logout Time": "16:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45415,
+        "Login Time": "09:02:00",
+        "Logout Time": "18:02:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45418,
+        "Login Time": "09:36:00",
+        "Logout Time": "17:36:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 15,
+        "Date": 45419,
+        "Login Time": "08:07:00",
+        "Logout Time": "14:07:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45420,
+        "Login Time": "10:11:00",
+        "Logout Time": "19:11:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45421,
+        "Login Time": "08:23:00",
+        "Logout Time": "18:23:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 15,
+        "Date": 45422,
+        "Login Time": "07:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 15,
+        "Date": 45425,
+        "Login Time": "10:18:00",
+        "Logout Time": "16:18:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45426,
+        "Login Time": "10:08:00",
+        "Logout Time": "20:08:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 15,
+        "Date": 45427,
+        "Login Time": "10:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45428,
+        "Login Time": "08:48:00",
+        "Logout Time": "17:48:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45429,
+        "Login Time": "10:02:00",
+        "Logout Time": "19:02:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45432,
+        "Login Time": "09:38:00",
+        "Logout Time": "15:38:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45433,
+        "Login Time": "09:39:00",
+        "Logout Time": "18:39:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45434,
+        "Login Time": "07:07:00",
+        "Logout Time": "13:07:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45435,
+        "Login Time": "10:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45436,
+        "Login Time": "08:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45439,
+        "Login Time": "09:35:00",
+        "Logout Time": "19:35:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 15,
+        "Date": 45440,
+        "Login Time": "07:36:00",
+        "Logout Time": "13:36:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 15,
+        "Date": 45441,
+        "Login Time": "07:40:00",
+        "Logout Time": "16:40:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 15,
+        "Date": 45442,
+        "Login Time": "07:10:00",
+        "Logout Time": "14:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 15,
+        "Date": 45443,
+        "Login Time": "08:06:00",
+        "Logout Time": "14:06:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 76320.15
+  },
+  {
+    "name": "Cody Garcia",
+    "Employee_ID": 16,
+    "salary": 183915,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 16,
+        "Date": 45413,
+        "Login Time": "07:15:00",
+        "Logout Time": "15:15:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 16,
+        "Date": 45414,
+        "Login Time": "09:17:00",
+        "Logout Time": "17:17:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 16,
+        "Date": 45415,
+        "Login Time": "08:48:00",
+        "Logout Time": "16:48:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 16,
+        "Date": 45418,
+        "Login Time": "07:58:00",
+        "Logout Time": "15:58:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 16,
+        "Date": 45419,
+        "Login Time": "09:24:00",
+        "Logout Time": "15:24:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 16,
+        "Date": 45420,
+        "Login Time": "09:20:00",
+        "Logout Time": "19:20:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 16,
+        "Date": 45421,
+        "Login Time": "09:14:00",
+        "Logout Time": "16:14:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45422,
+        "Login Time": "07:43:00",
+        "Logout Time": "15:43:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 16,
+        "Date": 45425,
+        "Login Time": "10:16:00",
+        "Logout Time": "16:16:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 16,
+        "Date": 45426,
+        "Login Time": "09:35:00",
+        "Logout Time": "19:35:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 16,
+        "Date": 45427,
+        "Login Time": "08:26:00",
+        "Logout Time": "16:26:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 16,
+        "Date": 45428,
+        "Login Time": "10:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 16,
+        "Date": 45429,
+        "Login Time": "10:34:00",
+        "Logout Time": "19:34:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 16,
+        "Date": 45432,
+        "Login Time": "07:03:00",
+        "Logout Time": "14:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45433,
+        "Login Time": "07:43:00",
+        "Logout Time": "17:43:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 16,
+        "Date": 45434,
+        "Login Time": "08:25:00",
+        "Logout Time": "17:25:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 16,
+        "Date": 45435,
+        "Login Time": "08:13:00",
+        "Logout Time": "15:13:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45436,
+        "Login Time": "07:36:00",
+        "Logout Time": "16:36:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 16,
+        "Date": 45439,
+        "Login Time": "09:44:00",
+        "Logout Time": "16:44:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45440,
+        "Login Time": "10:46:00",
+        "Logout Time": "17:46:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45441,
+        "Login Time": "10:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45442,
+        "Login Time": "07:54:00",
+        "Logout Time": "14:54:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 16,
+        "Date": 45443,
+        "Login Time": "08:32:00",
+        "Logout Time": "18:32:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 168588.75
+  },
+  {
+    "name": "Amy Mosley",
+    "Employee_ID": 17,
+    "salary": 158302,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 17,
+        "Date": 45413,
+        "Login Time": "07:45:00",
+        "Logout Time": "13:45:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45414,
+        "Login Time": "09:19:00",
+        "Logout Time": "19:19:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 17,
+        "Date": 45415,
+        "Login Time": "10:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45418,
+        "Login Time": "07:00:00",
+        "Logout Time": "17:00:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 17,
+        "Date": 45419,
+        "Login Time": "10:48:00",
+        "Logout Time": "16:48:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45420,
+        "Login Time": "10:19:00",
+        "Logout Time": "17:19:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 17,
+        "Date": 45421,
+        "Login Time": "08:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 17,
+        "Date": 45422,
+        "Login Time": "09:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 17,
+        "Date": 45425,
+        "Login Time": "07:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 17,
+        "Date": 45426,
+        "Login Time": "08:06:00",
+        "Logout Time": "16:06:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 17,
+        "Date": 45427,
+        "Login Time": "09:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 17,
+        "Date": 45428,
+        "Login Time": "07:06:00",
+        "Logout Time": "13:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45429,
+        "Login Time": "07:40:00",
+        "Logout Time": "13:40:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45432,
+        "Login Time": "09:37:00",
+        "Logout Time": "17:37:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 17,
+        "Date": 45433,
+        "Login Time": "09:54:00",
+        "Logout Time": "15:54:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45434,
+        "Login Time": "10:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45435,
+        "Login Time": "10:27:00",
+        "Logout Time": "20:27:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 17,
+        "Date": 45436,
+        "Login Time": "08:45:00",
+        "Logout Time": "17:45:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 17,
+        "Date": 45439,
+        "Login Time": "09:33:00",
+        "Logout Time": "18:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 17,
+        "Date": 45440,
+        "Login Time": "10:06:00",
+        "Logout Time": "19:06:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 17,
+        "Date": 45441,
+        "Login Time": "10:49:00",
+        "Logout Time": "16:49:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 17,
+        "Date": 45442,
+        "Login Time": "09:47:00",
+        "Logout Time": "16:47:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 17,
+        "Date": 45443,
+        "Login Time": "09:29:00",
+        "Logout Time": "19:29:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 147748.53333333333
+  },
+  {
+    "name": "Andrew Hill",
+    "Employee_ID": 18,
+    "salary": 133045,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 18,
+        "Date": 45413,
+        "Login Time": "09:29:00",
+        "Logout Time": "17:29:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 18,
+        "Date": 45414,
+        "Login Time": "08:33:00",
+        "Logout Time": "17:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 18,
+        "Date": 45415,
+        "Login Time": "08:03:00",
+        "Logout Time": "18:03:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45418,
+        "Login Time": "10:20:00",
+        "Logout Time": "17:20:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 18,
+        "Date": 45419,
+        "Login Time": "10:39:00",
+        "Logout Time": "20:39:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45420,
+        "Login Time": "09:28:00",
+        "Logout Time": "15:28:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 18,
+        "Date": 45421,
+        "Login Time": "09:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 18,
+        "Date": 45422,
+        "Login Time": "07:56:00",
+        "Logout Time": "16:56:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 18,
+        "Date": 45425,
+        "Login Time": "09:21:00",
+        "Logout Time": "19:21:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45426,
+        "Login Time": "10:12:00",
+        "Logout Time": "19:12:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 18,
+        "Date": 45427,
+        "Login Time": "07:13:00",
+        "Logout Time": "17:13:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45428,
+        "Login Time": "09:01:00",
+        "Logout Time": "16:01:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 18,
+        "Date": 45429,
+        "Login Time": "08:46:00",
+        "Logout Time": "15:46:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 18,
+        "Date": 45432,
+        "Login Time": "09:23:00",
+        "Logout Time": "17:23:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 18,
+        "Date": 45433,
+        "Login Time": "07:18:00",
+        "Logout Time": "17:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45434,
+        "Login Time": "08:27:00",
+        "Logout Time": "14:27:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 18,
+        "Date": 45435,
+        "Login Time": "10:39:00",
+        "Logout Time": "20:39:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45436,
+        "Login Time": "08:28:00",
+        "Logout Time": "14:28:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 18,
+        "Date": 45439,
+        "Login Time": "08:19:00",
+        "Logout Time": "17:19:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 18,
+        "Date": 45440,
+        "Login Time": "10:55:00",
+        "Logout Time": "20:55:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 18,
+        "Date": 45441,
+        "Login Time": "07:36:00",
+        "Logout Time": "14:36:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 18,
+        "Date": 45442,
+        "Login Time": "07:16:00",
+        "Logout Time": "14:16:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 18,
+        "Date": 45443,
+        "Login Time": "07:20:00",
+        "Logout Time": "17:20:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 126392.75
+  },
+  {
+    "name": "Jennifer Woods",
+    "Employee_ID": 19,
+    "salary": 122486,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 19,
+        "Date": 45413,
+        "Login Time": "10:11:00",
+        "Logout Time": "18:11:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 19,
+        "Date": 45414,
+        "Login Time": "09:39:00",
+        "Logout Time": "19:39:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 19,
+        "Date": 45415,
+        "Login Time": "10:32:00",
+        "Logout Time": "18:32:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 19,
+        "Date": 45418,
+        "Login Time": "07:41:00",
+        "Logout Time": "13:41:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 19,
+        "Date": 45419,
+        "Login Time": "09:04:00",
+        "Logout Time": "18:04:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 19,
+        "Date": 45420,
+        "Login Time": "08:58:00",
+        "Logout Time": "15:58:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45421,
+        "Login Time": "10:29:00",
+        "Logout Time": "17:29:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45422,
+        "Login Time": "09:36:00",
+        "Logout Time": "17:36:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 19,
+        "Date": 45425,
+        "Login Time": "10:05:00",
+        "Logout Time": "17:05:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45426,
+        "Login Time": "08:37:00",
+        "Logout Time": "18:37:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 19,
+        "Date": 45427,
+        "Login Time": "10:59:00",
+        "Logout Time": "16:59:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 19,
+        "Date": 45428,
+        "Login Time": "10:17:00",
+        "Logout Time": "17:17:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45429,
+        "Login Time": "07:43:00",
+        "Logout Time": "14:43:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45432,
+        "Login Time": "08:16:00",
+        "Logout Time": "16:16:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 19,
+        "Date": 45433,
+        "Login Time": "07:45:00",
+        "Logout Time": "14:45:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45434,
+        "Login Time": "10:58:00",
+        "Logout Time": "20:58:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 19,
+        "Date": 45435,
+        "Login Time": "09:16:00",
+        "Logout Time": "16:16:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45436,
+        "Login Time": "08:08:00",
+        "Logout Time": "17:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 19,
+        "Date": 45439,
+        "Login Time": "10:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45440,
+        "Login Time": "10:44:00",
+        "Logout Time": "20:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 19,
+        "Date": 45441,
+        "Login Time": "07:34:00",
+        "Logout Time": "14:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 19,
+        "Date": 45442,
+        "Login Time": "10:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 19,
+        "Date": 45443,
+        "Login Time": "07:02:00",
+        "Logout Time": "16:02:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 112278.83333333333
+  },
+  {
+    "name": "Raymond Jensen Jr.",
+    "Employee_ID": 20,
+    "salary": 171697,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 20,
+        "Date": 45413,
+        "Login Time": "07:21:00",
+        "Logout Time": "13:21:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 20,
+        "Date": 45414,
+        "Login Time": "07:54:00",
+        "Logout Time": "13:54:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 20,
+        "Date": 45415,
+        "Login Time": "10:26:00",
+        "Logout Time": "18:26:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 20,
+        "Date": 45418,
+        "Login Time": "08:35:00",
+        "Logout Time": "16:35:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 20,
+        "Date": 45419,
+        "Login Time": "07:26:00",
+        "Logout Time": "16:26:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 20,
+        "Date": 45420,
+        "Login Time": "10:21:00",
+        "Logout Time": "17:21:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 20,
+        "Date": 45421,
+        "Login Time": "08:49:00",
+        "Logout Time": "17:49:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 20,
+        "Date": 45422,
+        "Login Time": "08:14:00",
+        "Logout Time": "18:14:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 20,
+        "Date": 45425,
+        "Login Time": "09:11:00",
+        "Logout Time": "19:11:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 20,
+        "Date": 45426,
+        "Login Time": "10:09:00",
+        "Logout Time": "16:09:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 20,
+        "Date": 45427,
+        "Login Time": "10:05:00",
+        "Logout Time": "20:05:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 20,
+        "Date": 45428,
+        "Login Time": "10:08:00",
+        "Logout Time": "17:08:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 20,
+        "Date": 45429,
+        "Login Time": "09:46:00",
+        "Logout Time": "16:46:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 20,
+        "Date": 45432,
+        "Login Time": "10:33:00",
+        "Logout Time": "20:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 20,
+        "Date": 45433,
+        "Login Time": "09:29:00",
+        "Logout Time": "15:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 20,
+        "Date": 45434,
+        "Login Time": "08:53:00",
+        "Logout Time": "14:53:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 20,
+        "Date": 45435,
+        "Login Time": "08:32:00",
+        "Logout Time": "14:32:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 20,
+        "Date": 45436,
+        "Login Time": "09:31:00",
+        "Logout Time": "18:31:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 20,
+        "Date": 45439,
+        "Login Time": "10:12:00",
+        "Logout Time": "17:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 20,
+        "Date": 45440,
+        "Login Time": "07:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 20,
+        "Date": 45441,
+        "Login Time": "07:03:00",
+        "Logout Time": "16:03:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 20,
+        "Date": 45442,
+        "Login Time": "08:51:00",
+        "Logout Time": "16:51:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 20,
+        "Date": 45443,
+        "Login Time": "10:18:00",
+        "Logout Time": "20:18:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 171697
+  },
+  {
+    "name": "Daniel Baker",
+    "Employee_ID": 21,
+    "salary": 136771,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 21,
+        "Date": 45413,
+        "Login Time": "08:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 21,
+        "Date": 45414,
+        "Login Time": "07:58:00",
+        "Logout Time": "16:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 21,
+        "Date": 45415,
+        "Login Time": "09:45:00",
+        "Logout Time": "18:45:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 21,
+        "Date": 45418,
+        "Login Time": "07:13:00",
+        "Logout Time": "13:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 21,
+        "Date": 45419,
+        "Login Time": "08:04:00",
+        "Logout Time": "18:04:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 21,
+        "Date": 45420,
+        "Login Time": "10:35:00",
+        "Logout Time": "17:35:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45421,
+        "Login Time": "07:07:00",
+        "Logout Time": "14:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45422,
+        "Login Time": "08:03:00",
+        "Logout Time": "17:03:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 21,
+        "Date": 45425,
+        "Login Time": "07:27:00",
+        "Logout Time": "14:27:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45426,
+        "Login Time": "07:12:00",
+        "Logout Time": "14:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45427,
+        "Login Time": "07:42:00",
+        "Logout Time": "14:42:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45428,
+        "Login Time": "07:00:00",
+        "Logout Time": "14:00:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45429,
+        "Login Time": "07:41:00",
+        "Logout Time": "17:41:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 21,
+        "Date": 45432,
+        "Login Time": "08:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45433,
+        "Login Time": "07:46:00",
+        "Logout Time": "16:46:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 21,
+        "Date": 45434,
+        "Login Time": "08:28:00",
+        "Logout Time": "15:28:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45435,
+        "Login Time": "09:50:00",
+        "Logout Time": "16:50:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45436,
+        "Login Time": "09:29:00",
+        "Logout Time": "16:29:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 21,
+        "Date": 45439,
+        "Login Time": "10:45:00",
+        "Logout Time": "18:45:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 21,
+        "Date": 45440,
+        "Login Time": "07:39:00",
+        "Logout Time": "13:39:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 21,
+        "Date": 45441,
+        "Login Time": "10:44:00",
+        "Logout Time": "20:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 21,
+        "Date": 45442,
+        "Login Time": "09:43:00",
+        "Logout Time": "18:43:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 21,
+        "Date": 45443,
+        "Login Time": "08:16:00",
+        "Logout Time": "14:16:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 127652.93333333333
+  },
+  {
+    "name": "Frank Williams",
+    "Employee_ID": 22,
+    "salary": 74149,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 22,
+        "Date": 45413,
+        "Login Time": "08:14:00",
+        "Logout Time": "15:14:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 22,
+        "Date": 45414,
+        "Login Time": "09:37:00",
+        "Logout Time": "19:37:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 22,
+        "Date": 45415,
+        "Login Time": "07:39:00",
+        "Logout Time": "13:39:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 22,
+        "Date": 45418,
+        "Login Time": "10:36:00",
+        "Logout Time": "18:36:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 22,
+        "Date": 45419,
+        "Login Time": "07:26:00",
+        "Logout Time": "14:26:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 22,
+        "Date": 45420,
+        "Login Time": "10:13:00",
+        "Logout Time": "17:13:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 22,
+        "Date": 45421,
+        "Login Time": "07:10:00",
+        "Logout Time": "17:10:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 22,
+        "Date": 45422,
+        "Login Time": "10:05:00",
+        "Logout Time": "20:05:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 22,
+        "Date": 45425,
+        "Login Time": "07:18:00",
+        "Logout Time": "13:18:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 22,
+        "Date": 45426,
+        "Login Time": "08:30:00",
+        "Logout Time": "14:30:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 22,
+        "Date": 45427,
+        "Login Time": "07:16:00",
+        "Logout Time": "17:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 22,
+        "Date": 45428,
+        "Login Time": "09:25:00",
+        "Logout Time": "19:25:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 22,
+        "Date": 45429,
+        "Login Time": "07:11:00",
+        "Logout Time": "15:11:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 22,
+        "Date": 45432,
+        "Login Time": "09:16:00",
+        "Logout Time": "17:16:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 22,
+        "Date": 45433,
+        "Login Time": "08:49:00",
+        "Logout Time": "17:49:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 22,
+        "Date": 45434,
+        "Login Time": "08:48:00",
+        "Logout Time": "16:48:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 22,
+        "Date": 45435,
+        "Login Time": "10:03:00",
+        "Logout Time": "18:03:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 22,
+        "Date": 45436,
+        "Login Time": "09:00:00",
+        "Logout Time": "18:00:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 22,
+        "Date": 45439,
+        "Login Time": "10:36:00",
+        "Logout Time": "16:36:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 22,
+        "Date": 45440,
+        "Login Time": "10:43:00",
+        "Logout Time": "18:43:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 22,
+        "Date": 45441,
+        "Login Time": "09:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 22,
+        "Date": 45442,
+        "Login Time": "10:13:00",
+        "Logout Time": "20:13:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 22,
+        "Date": 45443,
+        "Login Time": "07:52:00",
+        "Logout Time": "16:52:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 69205.73333333334
+  },
+  {
+    "name": "Ethan Villarreal",
+    "Employee_ID": 23,
+    "salary": 94391,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 23,
+        "Date": 45413,
+        "Login Time": "08:11:00",
+        "Logout Time": "14:11:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45414,
+        "Login Time": "09:49:00",
+        "Logout Time": "19:49:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 23,
+        "Date": 45415,
+        "Login Time": "08:50:00",
+        "Logout Time": "14:50:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45418,
+        "Login Time": "09:39:00",
+        "Logout Time": "16:39:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 23,
+        "Date": 45419,
+        "Login Time": "10:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45420,
+        "Login Time": "10:42:00",
+        "Logout Time": "19:42:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 23,
+        "Date": 45421,
+        "Login Time": "07:37:00",
+        "Logout Time": "13:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45422,
+        "Login Time": "09:34:00",
+        "Logout Time": "19:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 23,
+        "Date": 45425,
+        "Login Time": "08:13:00",
+        "Logout Time": "16:13:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 23,
+        "Date": 45426,
+        "Login Time": "07:59:00",
+        "Logout Time": "16:59:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 23,
+        "Date": 45427,
+        "Login Time": "07:02:00",
+        "Logout Time": "17:02:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 23,
+        "Date": 45428,
+        "Login Time": "10:33:00",
+        "Logout Time": "20:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 23,
+        "Date": 45429,
+        "Login Time": "09:23:00",
+        "Logout Time": "15:23:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45432,
+        "Login Time": "07:37:00",
+        "Logout Time": "15:37:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 23,
+        "Date": 45433,
+        "Login Time": "07:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 23,
+        "Date": 45434,
+        "Login Time": "08:33:00",
+        "Logout Time": "15:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 23,
+        "Date": 45435,
+        "Login Time": "10:51:00",
+        "Logout Time": "16:51:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45436,
+        "Login Time": "07:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 23,
+        "Date": 45439,
+        "Login Time": "09:41:00",
+        "Logout Time": "15:41:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 23,
+        "Date": 45440,
+        "Login Time": "07:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 23,
+        "Date": 45441,
+        "Login Time": "10:27:00",
+        "Logout Time": "18:27:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 23,
+        "Date": 45442,
+        "Login Time": "08:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 23,
+        "Date": 45443,
+        "Login Time": "07:48:00",
+        "Logout Time": "13:48:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 88098.26666666666
+  },
+  {
+    "name": "Joseph Figueroa",
+    "Employee_ID": 24,
+    "salary": 114651,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 24,
+        "Date": 45413,
+        "Login Time": "08:56:00",
+        "Logout Time": "16:56:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 24,
+        "Date": 45414,
+        "Login Time": "07:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 24,
+        "Date": 45415,
+        "Login Time": "08:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45418,
+        "Login Time": "09:13:00",
+        "Logout Time": "18:13:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45419,
+        "Login Time": "07:03:00",
+        "Logout Time": "14:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 24,
+        "Date": 45420,
+        "Login Time": "07:20:00",
+        "Logout Time": "16:20:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45421,
+        "Login Time": "10:28:00",
+        "Logout Time": "20:28:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 24,
+        "Date": 45422,
+        "Login Time": "10:54:00",
+        "Logout Time": "17:54:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 24,
+        "Date": 45425,
+        "Login Time": "08:33:00",
+        "Logout Time": "15:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 24,
+        "Date": 45426,
+        "Login Time": "07:05:00",
+        "Logout Time": "16:05:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45427,
+        "Login Time": "07:39:00",
+        "Logout Time": "16:39:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45428,
+        "Login Time": "09:31:00",
+        "Logout Time": "17:31:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 24,
+        "Date": 45429,
+        "Login Time": "10:03:00",
+        "Logout Time": "16:03:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 24,
+        "Date": 45432,
+        "Login Time": "08:51:00",
+        "Logout Time": "17:51:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45433,
+        "Login Time": "09:13:00",
+        "Logout Time": "15:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 24,
+        "Date": 45434,
+        "Login Time": "08:44:00",
+        "Logout Time": "16:44:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 24,
+        "Date": 45435,
+        "Login Time": "10:33:00",
+        "Logout Time": "19:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45436,
+        "Login Time": "10:25:00",
+        "Logout Time": "19:25:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45439,
+        "Login Time": "10:30:00",
+        "Logout Time": "19:30:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45440,
+        "Login Time": "07:24:00",
+        "Logout Time": "17:24:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 24,
+        "Date": 45441,
+        "Login Time": "07:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 24,
+        "Date": 45442,
+        "Login Time": "08:57:00",
+        "Logout Time": "18:57:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 24,
+        "Date": 45443,
+        "Login Time": "09:40:00",
+        "Logout Time": "15:40:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 108918.45
+  },
+  {
+    "name": "Sheila Wagner",
+    "Employee_ID": 25,
+    "salary": 172928,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 25,
+        "Date": 45413,
+        "Login Time": "08:41:00",
+        "Logout Time": "18:41:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45414,
+        "Login Time": "07:13:00",
+        "Logout Time": "13:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 25,
+        "Date": 45415,
+        "Login Time": "08:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 25,
+        "Date": 45418,
+        "Login Time": "07:08:00",
+        "Logout Time": "13:08:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 25,
+        "Date": 45419,
+        "Login Time": "08:20:00",
+        "Logout Time": "18:20:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45420,
+        "Login Time": "08:04:00",
+        "Logout Time": "18:04:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45421,
+        "Login Time": "10:43:00",
+        "Logout Time": "16:43:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 25,
+        "Date": 45422,
+        "Login Time": "10:12:00",
+        "Logout Time": "19:12:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 25,
+        "Date": 45425,
+        "Login Time": "10:52:00",
+        "Logout Time": "18:52:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 25,
+        "Date": 45426,
+        "Login Time": "10:18:00",
+        "Logout Time": "19:18:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 25,
+        "Date": 45427,
+        "Login Time": "08:06:00",
+        "Logout Time": "18:06:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45428,
+        "Login Time": "08:50:00",
+        "Logout Time": "14:50:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 25,
+        "Date": 45429,
+        "Login Time": "07:20:00",
+        "Logout Time": "13:20:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 25,
+        "Date": 45432,
+        "Login Time": "08:08:00",
+        "Logout Time": "15:08:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 25,
+        "Date": 45433,
+        "Login Time": "08:52:00",
+        "Logout Time": "18:52:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45434,
+        "Login Time": "07:20:00",
+        "Logout Time": "17:20:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45435,
+        "Login Time": "07:20:00",
+        "Logout Time": "15:20:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 25,
+        "Date": 45436,
+        "Login Time": "07:48:00",
+        "Logout Time": "16:48:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 25,
+        "Date": 45439,
+        "Login Time": "07:34:00",
+        "Logout Time": "14:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 25,
+        "Date": 45440,
+        "Login Time": "10:33:00",
+        "Logout Time": "19:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 25,
+        "Date": 45441,
+        "Login Time": "07:27:00",
+        "Logout Time": "17:27:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45442,
+        "Login Time": "10:45:00",
+        "Logout Time": "20:45:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 25,
+        "Date": 45443,
+        "Login Time": "10:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 164281.6
+  },
+  {
+    "name": "Troy Garner",
+    "Employee_ID": 26,
+    "salary": 62847,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 26,
+        "Date": 45413,
+        "Login Time": "08:01:00",
+        "Logout Time": "14:01:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 26,
+        "Date": 45414,
+        "Login Time": "10:10:00",
+        "Logout Time": "16:10:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 26,
+        "Date": 45415,
+        "Login Time": "08:34:00",
+        "Logout Time": "18:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 26,
+        "Date": 45418,
+        "Login Time": "07:00:00",
+        "Logout Time": "17:00:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 26,
+        "Date": 45419,
+        "Login Time": "09:34:00",
+        "Logout Time": "16:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45420,
+        "Login Time": "09:28:00",
+        "Logout Time": "16:28:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45421,
+        "Login Time": "10:33:00",
+        "Logout Time": "20:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 26,
+        "Date": 45422,
+        "Login Time": "09:16:00",
+        "Logout Time": "17:16:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 26,
+        "Date": 45425,
+        "Login Time": "07:11:00",
+        "Logout Time": "14:11:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45426,
+        "Login Time": "10:58:00",
+        "Logout Time": "17:58:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45427,
+        "Login Time": "09:37:00",
+        "Logout Time": "17:37:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 26,
+        "Date": 45428,
+        "Login Time": "07:57:00",
+        "Logout Time": "17:57:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 26,
+        "Date": 45429,
+        "Login Time": "10:42:00",
+        "Logout Time": "17:42:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45432,
+        "Login Time": "10:52:00",
+        "Logout Time": "20:52:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 26,
+        "Date": 45433,
+        "Login Time": "10:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45434,
+        "Login Time": "09:38:00",
+        "Logout Time": "16:38:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45435,
+        "Login Time": "09:44:00",
+        "Logout Time": "19:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 26,
+        "Date": 45436,
+        "Login Time": "10:11:00",
+        "Logout Time": "16:11:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 26,
+        "Date": 45439,
+        "Login Time": "08:17:00",
+        "Logout Time": "14:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 26,
+        "Date": 45440,
+        "Login Time": "07:01:00",
+        "Logout Time": "14:01:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45441,
+        "Login Time": "07:10:00",
+        "Logout Time": "14:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 26,
+        "Date": 45442,
+        "Login Time": "08:04:00",
+        "Logout Time": "14:04:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 26,
+        "Date": 45443,
+        "Login Time": "07:59:00",
+        "Logout Time": "17:59:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 57609.75
+  },
+  {
+    "name": "Joseph Garcia",
+    "Employee_ID": 27,
+    "salary": 102793,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 27,
+        "Date": 45413,
+        "Login Time": "08:11:00",
+        "Logout Time": "18:11:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 27,
+        "Date": 45414,
+        "Login Time": "09:41:00",
+        "Logout Time": "19:41:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 27,
+        "Date": 45415,
+        "Login Time": "10:55:00",
+        "Logout Time": "20:55:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 27,
+        "Date": 45418,
+        "Login Time": "10:04:00",
+        "Logout Time": "18:04:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 27,
+        "Date": 45419,
+        "Login Time": "10:48:00",
+        "Logout Time": "16:48:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 27,
+        "Date": 45420,
+        "Login Time": "07:04:00",
+        "Logout Time": "16:04:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 27,
+        "Date": 45421,
+        "Login Time": "09:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 27,
+        "Date": 45422,
+        "Login Time": "07:34:00",
+        "Logout Time": "13:34:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 27,
+        "Date": 45425,
+        "Login Time": "10:55:00",
+        "Logout Time": "19:55:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 27,
+        "Date": 45426,
+        "Login Time": "09:44:00",
+        "Logout Time": "18:44:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 27,
+        "Date": 45427,
+        "Login Time": "08:53:00",
+        "Logout Time": "17:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 27,
+        "Date": 45428,
+        "Login Time": "09:59:00",
+        "Logout Time": "15:59:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 27,
+        "Date": 45429,
+        "Login Time": "07:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 27,
+        "Date": 45432,
+        "Login Time": "10:59:00",
+        "Logout Time": "16:59:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 27,
+        "Date": 45433,
+        "Login Time": "09:56:00",
+        "Logout Time": "19:56:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 27,
+        "Date": 45434,
+        "Login Time": "09:14:00",
+        "Logout Time": "15:14:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 27,
+        "Date": 45435,
+        "Login Time": "10:16:00",
+        "Logout Time": "20:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 27,
+        "Date": 45436,
+        "Login Time": "07:16:00",
+        "Logout Time": "14:16:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 27,
+        "Date": 45439,
+        "Login Time": "09:13:00",
+        "Logout Time": "17:13:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 27,
+        "Date": 45440,
+        "Login Time": "10:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 27,
+        "Date": 45441,
+        "Login Time": "10:40:00",
+        "Logout Time": "17:40:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 27,
+        "Date": 45442,
+        "Login Time": "08:55:00",
+        "Logout Time": "15:55:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 27,
+        "Date": 45443,
+        "Login Time": "09:03:00",
+        "Logout Time": "18:03:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 95940.13333333333
+  },
+  {
+    "name": "Jeffery Miller",
+    "Employee_ID": 28,
+    "salary": 102288,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 28,
+        "Date": 45413,
+        "Login Time": "08:19:00",
+        "Logout Time": "17:19:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 28,
+        "Date": 45414,
+        "Login Time": "09:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 28,
+        "Date": 45415,
+        "Login Time": "10:44:00",
+        "Logout Time": "19:44:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 28,
+        "Date": 45418,
+        "Login Time": "07:31:00",
+        "Logout Time": "15:31:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 28,
+        "Date": 45419,
+        "Login Time": "09:57:00",
+        "Logout Time": "18:57:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 28,
+        "Date": 45420,
+        "Login Time": "07:15:00",
+        "Logout Time": "16:15:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 28,
+        "Date": 45421,
+        "Login Time": "09:06:00",
+        "Logout Time": "15:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 28,
+        "Date": 45422,
+        "Login Time": "07:10:00",
+        "Logout Time": "14:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 28,
+        "Date": 45425,
+        "Login Time": "07:04:00",
+        "Logout Time": "17:04:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 28,
+        "Date": 45426,
+        "Login Time": "10:52:00",
+        "Logout Time": "20:52:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 28,
+        "Date": 45427,
+        "Login Time": "08:33:00",
+        "Logout Time": "14:33:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 28,
+        "Date": 45428,
+        "Login Time": "10:45:00",
+        "Logout Time": "20:45:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 28,
+        "Date": 45429,
+        "Login Time": "08:19:00",
+        "Logout Time": "16:19:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 28,
+        "Date": 45432,
+        "Login Time": "08:08:00",
+        "Logout Time": "14:08:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 28,
+        "Date": 45433,
+        "Login Time": "07:50:00",
+        "Logout Time": "13:50:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 28,
+        "Date": 45434,
+        "Login Time": "08:35:00",
+        "Logout Time": "15:35:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 28,
+        "Date": 45435,
+        "Login Time": "08:32:00",
+        "Logout Time": "15:32:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 28,
+        "Date": 45436,
+        "Login Time": "08:46:00",
+        "Logout Time": "17:46:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 28,
+        "Date": 45439,
+        "Login Time": "08:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 28,
+        "Date": 45440,
+        "Login Time": "07:59:00",
+        "Logout Time": "15:59:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 28,
+        "Date": 45441,
+        "Login Time": "10:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 28,
+        "Date": 45442,
+        "Login Time": "07:31:00",
+        "Logout Time": "15:31:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 28,
+        "Date": 45443,
+        "Login Time": "10:04:00",
+        "Logout Time": "18:04:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 95468.8
+  },
+  {
+    "name": "Ralph Brown",
+    "Employee_ID": 29,
+    "salary": 125222,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 29,
+        "Date": 45413,
+        "Login Time": "09:24:00",
+        "Logout Time": "19:24:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45414,
+        "Login Time": "10:24:00",
+        "Logout Time": "18:24:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 29,
+        "Date": 45415,
+        "Login Time": "09:08:00",
+        "Logout Time": "18:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 29,
+        "Date": 45418,
+        "Login Time": "07:47:00",
+        "Logout Time": "16:47:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 29,
+        "Date": 45419,
+        "Login Time": "08:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 29,
+        "Date": 45420,
+        "Login Time": "10:36:00",
+        "Logout Time": "19:36:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 29,
+        "Date": 45421,
+        "Login Time": "07:37:00",
+        "Logout Time": "13:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 29,
+        "Date": 45422,
+        "Login Time": "09:14:00",
+        "Logout Time": "16:14:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 29,
+        "Date": 45425,
+        "Login Time": "10:50:00",
+        "Logout Time": "18:50:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 29,
+        "Date": 45426,
+        "Login Time": "09:15:00",
+        "Logout Time": "19:15:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45427,
+        "Login Time": "10:33:00",
+        "Logout Time": "17:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 29,
+        "Date": 45428,
+        "Login Time": "09:23:00",
+        "Logout Time": "15:23:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 29,
+        "Date": 45429,
+        "Login Time": "08:18:00",
+        "Logout Time": "18:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45432,
+        "Login Time": "10:03:00",
+        "Logout Time": "18:03:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 29,
+        "Date": 45433,
+        "Login Time": "08:24:00",
+        "Logout Time": "18:24:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45434,
+        "Login Time": "09:14:00",
+        "Logout Time": "17:14:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 29,
+        "Date": 45435,
+        "Login Time": "10:11:00",
+        "Logout Time": "20:11:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45436,
+        "Login Time": "09:53:00",
+        "Logout Time": "15:53:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 29,
+        "Date": 45439,
+        "Login Time": "07:07:00",
+        "Logout Time": "14:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 29,
+        "Date": 45440,
+        "Login Time": "10:49:00",
+        "Logout Time": "20:49:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45441,
+        "Login Time": "07:22:00",
+        "Logout Time": "15:22:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 29,
+        "Date": 45442,
+        "Login Time": "07:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 29,
+        "Date": 45443,
+        "Login Time": "08:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 125222
+  },
+  {
+    "name": "Gregory Villarreal",
+    "Employee_ID": 30,
+    "salary": 138645,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 30,
+        "Date": 45413,
+        "Login Time": "08:06:00",
+        "Logout Time": "14:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45414,
+        "Login Time": "09:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 30,
+        "Date": 45415,
+        "Login Time": "07:19:00",
+        "Logout Time": "13:19:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45418,
+        "Login Time": "07:17:00",
+        "Logout Time": "14:17:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 30,
+        "Date": 45419,
+        "Login Time": "08:50:00",
+        "Logout Time": "17:50:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 30,
+        "Date": 45420,
+        "Login Time": "10:42:00",
+        "Logout Time": "20:42:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 30,
+        "Date": 45421,
+        "Login Time": "07:31:00",
+        "Logout Time": "16:31:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 30,
+        "Date": 45422,
+        "Login Time": "08:15:00",
+        "Logout Time": "16:15:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 30,
+        "Date": 45425,
+        "Login Time": "10:02:00",
+        "Logout Time": "19:02:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 30,
+        "Date": 45426,
+        "Login Time": "08:55:00",
+        "Logout Time": "14:55:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45427,
+        "Login Time": "09:05:00",
+        "Logout Time": "15:05:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45428,
+        "Login Time": "08:32:00",
+        "Logout Time": "14:32:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45429,
+        "Login Time": "07:19:00",
+        "Logout Time": "17:19:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 30,
+        "Date": 45432,
+        "Login Time": "09:27:00",
+        "Logout Time": "17:27:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 30,
+        "Date": 45433,
+        "Login Time": "08:20:00",
+        "Logout Time": "14:20:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45434,
+        "Login Time": "08:43:00",
+        "Logout Time": "14:43:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45435,
+        "Login Time": "10:31:00",
+        "Logout Time": "19:31:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 30,
+        "Date": 45436,
+        "Login Time": "07:56:00",
+        "Logout Time": "16:56:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 30,
+        "Date": 45439,
+        "Login Time": "10:24:00",
+        "Logout Time": "18:24:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 30,
+        "Date": 45440,
+        "Login Time": "10:20:00",
+        "Logout Time": "17:20:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 30,
+        "Date": 45441,
+        "Login Time": "10:38:00",
+        "Logout Time": "16:38:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 30,
+        "Date": 45442,
+        "Login Time": "09:43:00",
+        "Logout Time": "16:43:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 30,
+        "Date": 45443,
+        "Login Time": "09:55:00",
+        "Logout Time": "18:55:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 127091.25
+  },
+  {
+    "name": "Sharon Thomas",
+    "Employee_ID": 31,
+    "salary": 128726,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 31,
+        "Date": 45413,
+        "Login Time": "09:12:00",
+        "Logout Time": "16:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 31,
+        "Date": 45414,
+        "Login Time": "10:08:00",
+        "Logout Time": "19:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 31,
+        "Date": 45415,
+        "Login Time": "08:37:00",
+        "Logout Time": "18:37:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 31,
+        "Date": 45418,
+        "Login Time": "07:28:00",
+        "Logout Time": "16:28:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 31,
+        "Date": 45419,
+        "Login Time": "10:37:00",
+        "Logout Time": "18:37:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 31,
+        "Date": 45420,
+        "Login Time": "10:11:00",
+        "Logout Time": "16:11:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45421,
+        "Login Time": "08:20:00",
+        "Logout Time": "14:20:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45422,
+        "Login Time": "10:08:00",
+        "Logout Time": "19:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 31,
+        "Date": 45425,
+        "Login Time": "09:14:00",
+        "Logout Time": "15:14:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45426,
+        "Login Time": "08:12:00",
+        "Logout Time": "15:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 31,
+        "Date": 45427,
+        "Login Time": "08:28:00",
+        "Logout Time": "17:28:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 31,
+        "Date": 45428,
+        "Login Time": "09:06:00",
+        "Logout Time": "15:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45429,
+        "Login Time": "09:16:00",
+        "Logout Time": "15:16:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45432,
+        "Login Time": "10:25:00",
+        "Logout Time": "18:25:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 31,
+        "Date": 45433,
+        "Login Time": "07:13:00",
+        "Logout Time": "17:13:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 31,
+        "Date": 45434,
+        "Login Time": "09:17:00",
+        "Logout Time": "15:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45435,
+        "Login Time": "09:46:00",
+        "Logout Time": "15:46:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45436,
+        "Login Time": "08:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 31,
+        "Date": 45439,
+        "Login Time": "09:20:00",
+        "Logout Time": "15:20:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 31,
+        "Date": 45440,
+        "Login Time": "09:01:00",
+        "Logout Time": "16:01:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 31,
+        "Date": 45441,
+        "Login Time": "09:49:00",
+        "Logout Time": "16:49:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 31,
+        "Date": 45442,
+        "Login Time": "10:17:00",
+        "Logout Time": "19:17:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 31,
+        "Date": 45443,
+        "Login Time": "10:53:00",
+        "Logout Time": "20:53:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 120144.26666666666
+  },
+  {
+    "name": "Melanie Nichols",
+    "Employee_ID": 32,
+    "salary": 191282,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 32,
+        "Date": 45413,
+        "Login Time": "08:34:00",
+        "Logout Time": "18:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 32,
+        "Date": 45414,
+        "Login Time": "08:09:00",
+        "Logout Time": "17:09:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 32,
+        "Date": 45415,
+        "Login Time": "07:35:00",
+        "Logout Time": "15:35:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 32,
+        "Date": 45418,
+        "Login Time": "07:22:00",
+        "Logout Time": "16:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 32,
+        "Date": 45419,
+        "Login Time": "08:12:00",
+        "Logout Time": "15:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 32,
+        "Date": 45420,
+        "Login Time": "07:05:00",
+        "Logout Time": "13:05:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 32,
+        "Date": 45421,
+        "Login Time": "09:57:00",
+        "Logout Time": "18:57:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 32,
+        "Date": 45422,
+        "Login Time": "08:27:00",
+        "Logout Time": "18:27:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 32,
+        "Date": 45425,
+        "Login Time": "07:35:00",
+        "Logout Time": "15:35:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 32,
+        "Date": 45426,
+        "Login Time": "09:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 32,
+        "Date": 45427,
+        "Login Time": "07:17:00",
+        "Logout Time": "15:17:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 32,
+        "Date": 45428,
+        "Login Time": "08:53:00",
+        "Logout Time": "17:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 32,
+        "Date": 45429,
+        "Login Time": "10:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 32,
+        "Date": 45432,
+        "Login Time": "09:44:00",
+        "Logout Time": "19:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 32,
+        "Date": 45433,
+        "Login Time": "07:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 32,
+        "Date": 45434,
+        "Login Time": "10:33:00",
+        "Logout Time": "20:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 32,
+        "Date": 45435,
+        "Login Time": "09:03:00",
+        "Logout Time": "19:03:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 32,
+        "Date": 45436,
+        "Login Time": "08:39:00",
+        "Logout Time": "14:39:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 32,
+        "Date": 45439,
+        "Login Time": "07:01:00",
+        "Logout Time": "16:01:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 32,
+        "Date": 45440,
+        "Login Time": "07:26:00",
+        "Logout Time": "13:26:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 32,
+        "Date": 45441,
+        "Login Time": "10:30:00",
+        "Logout Time": "17:30:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 32,
+        "Date": 45442,
+        "Login Time": "09:04:00",
+        "Logout Time": "16:04:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 32,
+        "Date": 45443,
+        "Login Time": "10:53:00",
+        "Logout Time": "20:53:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 181717.9
+  },
+  {
+    "name": "Janet Stuart",
+    "Employee_ID": 33,
+    "salary": 164508,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 33,
+        "Date": 45413,
+        "Login Time": "08:06:00",
+        "Logout Time": "15:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 33,
+        "Date": 45414,
+        "Login Time": "10:22:00",
+        "Logout Time": "19:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 33,
+        "Date": 45415,
+        "Login Time": "09:53:00",
+        "Logout Time": "17:53:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 33,
+        "Date": 45418,
+        "Login Time": "09:32:00",
+        "Logout Time": "18:32:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 33,
+        "Date": 45419,
+        "Login Time": "07:55:00",
+        "Logout Time": "16:55:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 33,
+        "Date": 45420,
+        "Login Time": "10:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 33,
+        "Date": 45421,
+        "Login Time": "10:41:00",
+        "Logout Time": "16:41:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 33,
+        "Date": 45422,
+        "Login Time": "08:56:00",
+        "Logout Time": "18:56:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 33,
+        "Date": 45425,
+        "Login Time": "07:19:00",
+        "Logout Time": "13:19:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 33,
+        "Date": 45426,
+        "Login Time": "10:45:00",
+        "Logout Time": "20:45:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 33,
+        "Date": 45427,
+        "Login Time": "10:58:00",
+        "Logout Time": "18:58:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 33,
+        "Date": 45428,
+        "Login Time": "09:44:00",
+        "Logout Time": "19:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 33,
+        "Date": 45429,
+        "Login Time": "09:24:00",
+        "Logout Time": "16:24:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 33,
+        "Date": 45432,
+        "Login Time": "10:44:00",
+        "Logout Time": "18:44:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 33,
+        "Date": 45433,
+        "Login Time": "09:46:00",
+        "Logout Time": "17:46:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 33,
+        "Date": 45434,
+        "Login Time": "10:58:00",
+        "Logout Time": "16:58:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 33,
+        "Date": 45435,
+        "Login Time": "09:45:00",
+        "Logout Time": "17:45:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 33,
+        "Date": 45436,
+        "Login Time": "07:07:00",
+        "Logout Time": "14:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 33,
+        "Date": 45439,
+        "Login Time": "10:35:00",
+        "Logout Time": "19:35:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 33,
+        "Date": 45440,
+        "Login Time": "10:58:00",
+        "Logout Time": "19:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 33,
+        "Date": 45441,
+        "Login Time": "07:22:00",
+        "Logout Time": "14:22:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 33,
+        "Date": 45442,
+        "Login Time": "10:38:00",
+        "Logout Time": "20:38:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 33,
+        "Date": 45443,
+        "Login Time": "07:04:00",
+        "Logout Time": "14:04:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 153540.8
+  },
+  {
+    "name": "Sean Lee",
+    "Employee_ID": 34,
+    "salary": 136311,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 34,
+        "Date": 45413,
+        "Login Time": "10:43:00",
+        "Logout Time": "19:43:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 34,
+        "Date": 45414,
+        "Login Time": "07:31:00",
+        "Logout Time": "14:31:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 34,
+        "Date": 45415,
+        "Login Time": "08:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 34,
+        "Date": 45418,
+        "Login Time": "09:54:00",
+        "Logout Time": "18:54:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 34,
+        "Date": 45419,
+        "Login Time": "09:39:00",
+        "Logout Time": "19:39:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 34,
+        "Date": 45420,
+        "Login Time": "07:02:00",
+        "Logout Time": "13:02:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 34,
+        "Date": 45421,
+        "Login Time": "08:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 34,
+        "Date": 45422,
+        "Login Time": "09:39:00",
+        "Logout Time": "15:39:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 34,
+        "Date": 45425,
+        "Login Time": "10:36:00",
+        "Logout Time": "18:36:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 34,
+        "Date": 45426,
+        "Login Time": "07:02:00",
+        "Logout Time": "13:02:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 34,
+        "Date": 45427,
+        "Login Time": "10:18:00",
+        "Logout Time": "19:18:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 34,
+        "Date": 45428,
+        "Login Time": "08:14:00",
+        "Logout Time": "15:14:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 34,
+        "Date": 45429,
+        "Login Time": "09:03:00",
+        "Logout Time": "16:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 34,
+        "Date": 45432,
+        "Login Time": "10:43:00",
+        "Logout Time": "20:43:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 34,
+        "Date": 45433,
+        "Login Time": "07:40:00",
+        "Logout Time": "16:40:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 34,
+        "Date": 45434,
+        "Login Time": "07:28:00",
+        "Logout Time": "17:28:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 34,
+        "Date": 45435,
+        "Login Time": "07:16:00",
+        "Logout Time": "17:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 34,
+        "Date": 45436,
+        "Login Time": "08:24:00",
+        "Logout Time": "17:24:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 34,
+        "Date": 45439,
+        "Login Time": "10:49:00",
+        "Logout Time": "18:49:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 34,
+        "Date": 45440,
+        "Login Time": "07:52:00",
+        "Logout Time": "13:52:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 34,
+        "Date": 45441,
+        "Login Time": "07:45:00",
+        "Logout Time": "14:45:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 34,
+        "Date": 45442,
+        "Login Time": "07:11:00",
+        "Logout Time": "15:11:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 34,
+        "Date": 45443,
+        "Login Time": "07:59:00",
+        "Logout Time": "16:59:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 136311
+  },
+  {
+    "name": "Deborah Phillips",
+    "Employee_ID": 35,
+    "salary": 57146,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 35,
+        "Date": 45413,
+        "Login Time": "07:17:00",
+        "Logout Time": "14:17:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 35,
+        "Date": 45414,
+        "Login Time": "10:21:00",
+        "Logout Time": "19:21:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45415,
+        "Login Time": "09:07:00",
+        "Logout Time": "18:07:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45418,
+        "Login Time": "07:25:00",
+        "Logout Time": "16:25:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45419,
+        "Login Time": "08:51:00",
+        "Logout Time": "17:51:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45420,
+        "Login Time": "08:13:00",
+        "Logout Time": "14:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 35,
+        "Date": 45421,
+        "Login Time": "08:23:00",
+        "Logout Time": "14:23:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 35,
+        "Date": 45422,
+        "Login Time": "07:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 35,
+        "Date": 45425,
+        "Login Time": "08:54:00",
+        "Logout Time": "17:54:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45426,
+        "Login Time": "10:23:00",
+        "Logout Time": "18:23:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 35,
+        "Date": 45427,
+        "Login Time": "10:31:00",
+        "Logout Time": "16:31:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 35,
+        "Date": 45428,
+        "Login Time": "09:46:00",
+        "Logout Time": "19:46:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 35,
+        "Date": 45429,
+        "Login Time": "10:12:00",
+        "Logout Time": "17:12:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 35,
+        "Date": 45432,
+        "Login Time": "08:18:00",
+        "Logout Time": "17:18:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45433,
+        "Login Time": "09:46:00",
+        "Logout Time": "18:46:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45434,
+        "Login Time": "09:02:00",
+        "Logout Time": "17:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 35,
+        "Date": 45435,
+        "Login Time": "09:36:00",
+        "Logout Time": "19:36:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 35,
+        "Date": 45436,
+        "Login Time": "07:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45439,
+        "Login Time": "10:49:00",
+        "Logout Time": "18:49:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 35,
+        "Date": 45440,
+        "Login Time": "08:38:00",
+        "Logout Time": "16:38:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 35,
+        "Date": 45441,
+        "Login Time": "10:42:00",
+        "Logout Time": "16:42:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 35,
+        "Date": 45442,
+        "Login Time": "08:07:00",
+        "Logout Time": "17:07:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 35,
+        "Date": 45443,
+        "Login Time": "08:37:00",
+        "Logout Time": "15:37:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 53336.26666666667
+  },
+  {
+    "name": "Allen Ryan",
+    "Employee_ID": 36,
+    "salary": 160479,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 36,
+        "Date": 45413,
+        "Login Time": "07:04:00",
+        "Logout Time": "14:04:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 36,
+        "Date": 45414,
+        "Login Time": "08:29:00",
+        "Logout Time": "17:29:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 36,
+        "Date": 45415,
+        "Login Time": "09:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 36,
+        "Date": 45418,
+        "Login Time": "08:49:00",
+        "Logout Time": "15:49:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 36,
+        "Date": 45419,
+        "Login Time": "10:59:00",
+        "Logout Time": "17:59:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 36,
+        "Date": 45420,
+        "Login Time": "07:35:00",
+        "Logout Time": "13:35:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 36,
+        "Date": 45421,
+        "Login Time": "09:09:00",
+        "Logout Time": "18:09:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 36,
+        "Date": 45422,
+        "Login Time": "09:31:00",
+        "Logout Time": "15:31:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 36,
+        "Date": 45425,
+        "Login Time": "08:32:00",
+        "Logout Time": "17:32:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 36,
+        "Date": 45426,
+        "Login Time": "07:51:00",
+        "Logout Time": "17:51:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 36,
+        "Date": 45427,
+        "Login Time": "07:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 36,
+        "Date": 45428,
+        "Login Time": "10:25:00",
+        "Logout Time": "19:25:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 36,
+        "Date": 45429,
+        "Login Time": "08:08:00",
+        "Logout Time": "15:08:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 36,
+        "Date": 45432,
+        "Login Time": "10:40:00",
+        "Logout Time": "17:40:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 36,
+        "Date": 45433,
+        "Login Time": "10:42:00",
+        "Logout Time": "18:42:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 36,
+        "Date": 45434,
+        "Login Time": "07:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 36,
+        "Date": 45435,
+        "Login Time": "09:21:00",
+        "Logout Time": "19:21:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 36,
+        "Date": 45436,
+        "Login Time": "07:33:00",
+        "Logout Time": "17:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 36,
+        "Date": 45439,
+        "Login Time": "10:31:00",
+        "Logout Time": "16:31:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 36,
+        "Date": 45440,
+        "Login Time": "07:52:00",
+        "Logout Time": "15:52:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 36,
+        "Date": 45441,
+        "Login Time": "07:57:00",
+        "Logout Time": "17:57:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 36,
+        "Date": 45442,
+        "Login Time": "07:00:00",
+        "Logout Time": "16:00:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 36,
+        "Date": 45443,
+        "Login Time": "07:44:00",
+        "Logout Time": "13:44:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 160479
+  },
+  {
+    "name": "Albert Ortiz",
+    "Employee_ID": 37,
+    "salary": 151150,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 37,
+        "Date": 45413,
+        "Login Time": "07:54:00",
+        "Logout Time": "17:54:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 37,
+        "Date": 45414,
+        "Login Time": "08:40:00",
+        "Logout Time": "17:40:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 37,
+        "Date": 45415,
+        "Login Time": "07:40:00",
+        "Logout Time": "15:40:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 37,
+        "Date": 45418,
+        "Login Time": "08:15:00",
+        "Logout Time": "17:15:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 37,
+        "Date": 45419,
+        "Login Time": "08:47:00",
+        "Logout Time": "14:47:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 37,
+        "Date": 45420,
+        "Login Time": "09:58:00",
+        "Logout Time": "17:58:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 37,
+        "Date": 45421,
+        "Login Time": "09:43:00",
+        "Logout Time": "18:43:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 37,
+        "Date": 45422,
+        "Login Time": "10:36:00",
+        "Logout Time": "16:36:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 37,
+        "Date": 45425,
+        "Login Time": "10:56:00",
+        "Logout Time": "16:56:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 37,
+        "Date": 45426,
+        "Login Time": "10:07:00",
+        "Logout Time": "20:07:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 37,
+        "Date": 45427,
+        "Login Time": "08:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 37,
+        "Date": 45428,
+        "Login Time": "07:48:00",
+        "Logout Time": "14:48:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 37,
+        "Date": 45429,
+        "Login Time": "07:57:00",
+        "Logout Time": "14:57:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 37,
+        "Date": 45432,
+        "Login Time": "09:43:00",
+        "Logout Time": "19:43:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 37,
+        "Date": 45433,
+        "Login Time": "08:18:00",
+        "Logout Time": "17:18:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 37,
+        "Date": 45434,
+        "Login Time": "09:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 37,
+        "Date": 45435,
+        "Login Time": "09:49:00",
+        "Logout Time": "15:49:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 37,
+        "Date": 45436,
+        "Login Time": "10:39:00",
+        "Logout Time": "17:39:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 37,
+        "Date": 45439,
+        "Login Time": "08:55:00",
+        "Logout Time": "17:55:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 37,
+        "Date": 45440,
+        "Login Time": "08:43:00",
+        "Logout Time": "14:43:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 37,
+        "Date": 45441,
+        "Login Time": "08:06:00",
+        "Logout Time": "15:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 37,
+        "Date": 45442,
+        "Login Time": "10:52:00",
+        "Logout Time": "18:52:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 37,
+        "Date": 45443,
+        "Login Time": "07:09:00",
+        "Logout Time": "16:09:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 141073.33333333334
+  },
+  {
+    "name": "Paige Woods",
+    "Employee_ID": 38,
+    "salary": 79910,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 38,
+        "Date": 45413,
+        "Login Time": "09:07:00",
+        "Logout Time": "16:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 38,
+        "Date": 45414,
+        "Login Time": "10:40:00",
+        "Logout Time": "19:40:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 38,
+        "Date": 45415,
+        "Login Time": "10:01:00",
+        "Logout Time": "18:01:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 38,
+        "Date": 45418,
+        "Login Time": "08:00:00",
+        "Logout Time": "16:00:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 38,
+        "Date": 45419,
+        "Login Time": "10:16:00",
+        "Logout Time": "16:16:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45420,
+        "Login Time": "10:59:00",
+        "Logout Time": "18:59:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 38,
+        "Date": 45421,
+        "Login Time": "07:25:00",
+        "Logout Time": "16:25:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 38,
+        "Date": 45422,
+        "Login Time": "10:10:00",
+        "Logout Time": "17:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 38,
+        "Date": 45425,
+        "Login Time": "07:59:00",
+        "Logout Time": "14:59:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 38,
+        "Date": 45426,
+        "Login Time": "08:42:00",
+        "Logout Time": "14:42:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45427,
+        "Login Time": "07:03:00",
+        "Logout Time": "13:03:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45428,
+        "Login Time": "08:53:00",
+        "Logout Time": "15:53:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 38,
+        "Date": 45429,
+        "Login Time": "08:54:00",
+        "Logout Time": "14:54:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45432,
+        "Login Time": "09:08:00",
+        "Logout Time": "17:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 38,
+        "Date": 45433,
+        "Login Time": "08:44:00",
+        "Logout Time": "16:44:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 38,
+        "Date": 45434,
+        "Login Time": "07:02:00",
+        "Logout Time": "17:02:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 38,
+        "Date": 45435,
+        "Login Time": "07:37:00",
+        "Logout Time": "13:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45436,
+        "Login Time": "10:33:00",
+        "Logout Time": "17:33:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 38,
+        "Date": 45439,
+        "Login Time": "09:18:00",
+        "Logout Time": "17:18:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 38,
+        "Date": 45440,
+        "Login Time": "09:25:00",
+        "Logout Time": "15:25:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45441,
+        "Login Time": "07:04:00",
+        "Logout Time": "13:04:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 38,
+        "Date": 45442,
+        "Login Time": "09:41:00",
+        "Logout Time": "18:41:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 38,
+        "Date": 45443,
+        "Login Time": "07:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 71919
+  },
+  {
+    "name": "Wendy Lloyd",
+    "Employee_ID": 39,
+    "salary": 58665,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 39,
+        "Date": 45413,
+        "Login Time": "10:24:00",
+        "Logout Time": "16:24:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45414,
+        "Login Time": "09:53:00",
+        "Logout Time": "15:53:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45415,
+        "Login Time": "08:26:00",
+        "Logout Time": "16:26:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 39,
+        "Date": 45418,
+        "Login Time": "07:06:00",
+        "Logout Time": "16:06:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 39,
+        "Date": 45419,
+        "Login Time": "07:38:00",
+        "Logout Time": "14:38:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 39,
+        "Date": 45420,
+        "Login Time": "09:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 39,
+        "Date": 45421,
+        "Login Time": "09:34:00",
+        "Logout Time": "19:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 39,
+        "Date": 45422,
+        "Login Time": "10:29:00",
+        "Logout Time": "16:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45425,
+        "Login Time": "09:59:00",
+        "Logout Time": "18:59:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 39,
+        "Date": 45426,
+        "Login Time": "07:03:00",
+        "Logout Time": "14:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 39,
+        "Date": 45427,
+        "Login Time": "07:27:00",
+        "Logout Time": "16:27:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 39,
+        "Date": 45428,
+        "Login Time": "09:40:00",
+        "Logout Time": "15:40:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45429,
+        "Login Time": "10:00:00",
+        "Logout Time": "16:00:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45432,
+        "Login Time": "10:27:00",
+        "Logout Time": "17:27:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 39,
+        "Date": 45433,
+        "Login Time": "09:20:00",
+        "Logout Time": "19:20:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 39,
+        "Date": 45434,
+        "Login Time": "08:51:00",
+        "Logout Time": "14:51:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45435,
+        "Login Time": "10:03:00",
+        "Logout Time": "18:03:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 39,
+        "Date": 45436,
+        "Login Time": "09:18:00",
+        "Logout Time": "19:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 39,
+        "Date": 45439,
+        "Login Time": "10:58:00",
+        "Logout Time": "19:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 39,
+        "Date": 45440,
+        "Login Time": "08:09:00",
+        "Logout Time": "14:09:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 39,
+        "Date": 45441,
+        "Login Time": "10:41:00",
+        "Logout Time": "17:41:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 39,
+        "Date": 45442,
+        "Login Time": "09:36:00",
+        "Logout Time": "18:36:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 39,
+        "Date": 45443,
+        "Login Time": "10:55:00",
+        "Logout Time": "20:55:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 54754
+  },
+  {
+    "name": "Brianna Powell",
+    "Employee_ID": 40,
+    "salary": 199682,
+    "employeeType": "Engineers",
+    "timesheet": [
+      {
+        "Employee": 40,
+        "Date": 45413,
+        "Login Time": "07:37:00",
+        "Logout Time": "17:37:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45414,
+        "Login Time": "08:06:00",
+        "Logout Time": "15:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 40,
+        "Date": 45415,
+        "Login Time": "09:05:00",
+        "Logout Time": "19:05:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45418,
+        "Login Time": "10:47:00",
+        "Logout Time": "20:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45419,
+        "Login Time": "09:35:00",
+        "Logout Time": "19:35:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45420,
+        "Login Time": "09:47:00",
+        "Logout Time": "19:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45421,
+        "Login Time": "09:13:00",
+        "Logout Time": "16:13:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 40,
+        "Date": 45422,
+        "Login Time": "09:07:00",
+        "Logout Time": "19:07:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45425,
+        "Login Time": "08:28:00",
+        "Logout Time": "17:28:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 40,
+        "Date": 45426,
+        "Login Time": "07:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 40,
+        "Date": 45427,
+        "Login Time": "07:20:00",
+        "Logout Time": "15:20:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 40,
+        "Date": 45428,
+        "Login Time": "10:08:00",
+        "Logout Time": "18:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 40,
+        "Date": 45429,
+        "Login Time": "10:10:00",
+        "Logout Time": "19:10:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 40,
+        "Date": 45432,
+        "Login Time": "09:26:00",
+        "Logout Time": "15:26:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 40,
+        "Date": 45433,
+        "Login Time": "09:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 40,
+        "Date": 45434,
+        "Login Time": "09:10:00",
+        "Logout Time": "16:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 40,
+        "Date": 45435,
+        "Login Time": "10:43:00",
+        "Logout Time": "20:43:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45436,
+        "Login Time": "08:54:00",
+        "Logout Time": "16:54:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 40,
+        "Date": 45439,
+        "Login Time": "07:14:00",
+        "Logout Time": "16:14:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 40,
+        "Date": 45440,
+        "Login Time": "09:38:00",
+        "Logout Time": "19:38:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 40,
+        "Date": 45441,
+        "Login Time": "09:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 40,
+        "Date": 45442,
+        "Login Time": "09:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 40,
+        "Date": 45443,
+        "Login Time": "09:35:00",
+        "Logout Time": "16:35:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 186369.86666666667
+  },
+  {
+    "name": "Michael Park",
+    "Employee_ID": 41,
+    "salary": 164258,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 41,
+        "Date": 45413,
+        "Login Time": "09:29:00",
+        "Logout Time": "15:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45414,
+        "Login Time": "07:49:00",
+        "Logout Time": "13:49:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45415,
+        "Login Time": "10:07:00",
+        "Logout Time": "17:07:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 41,
+        "Date": 45418,
+        "Login Time": "09:27:00",
+        "Logout Time": "16:27:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 41,
+        "Date": 45419,
+        "Login Time": "10:46:00",
+        "Logout Time": "19:46:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 41,
+        "Date": 45420,
+        "Login Time": "07:15:00",
+        "Logout Time": "13:15:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45421,
+        "Login Time": "07:09:00",
+        "Logout Time": "15:09:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 41,
+        "Date": 45422,
+        "Login Time": "08:38:00",
+        "Logout Time": "18:38:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 41,
+        "Date": 45425,
+        "Login Time": "08:07:00",
+        "Logout Time": "18:07:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 41,
+        "Date": 45426,
+        "Login Time": "08:46:00",
+        "Logout Time": "14:46:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45427,
+        "Login Time": "07:01:00",
+        "Logout Time": "13:01:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45428,
+        "Login Time": "08:52:00",
+        "Logout Time": "14:52:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45429,
+        "Login Time": "07:46:00",
+        "Logout Time": "13:46:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45432,
+        "Login Time": "10:52:00",
+        "Logout Time": "17:52:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 41,
+        "Date": 45433,
+        "Login Time": "09:48:00",
+        "Logout Time": "15:48:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45434,
+        "Login Time": "10:23:00",
+        "Logout Time": "17:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 41,
+        "Date": 45435,
+        "Login Time": "09:35:00",
+        "Logout Time": "16:35:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 41,
+        "Date": 45436,
+        "Login Time": "08:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 41,
+        "Date": 45439,
+        "Login Time": "08:00:00",
+        "Logout Time": "18:00:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 41,
+        "Date": 45440,
+        "Login Time": "08:33:00",
+        "Logout Time": "16:33:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 41,
+        "Date": 45441,
+        "Login Time": "09:26:00",
+        "Logout Time": "15:26:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45442,
+        "Login Time": "10:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 41,
+        "Date": 45443,
+        "Login Time": "10:42:00",
+        "Logout Time": "17:42:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 147832.2
+  },
+  {
+    "name": "David Hansen",
+    "Employee_ID": 42,
+    "salary": 197176,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 42,
+        "Date": 45413,
+        "Login Time": "10:48:00",
+        "Logout Time": "17:48:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45414,
+        "Login Time": "09:52:00",
+        "Logout Time": "17:52:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 42,
+        "Date": 45415,
+        "Login Time": "09:06:00",
+        "Logout Time": "16:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45418,
+        "Login Time": "10:31:00",
+        "Logout Time": "20:31:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45419,
+        "Login Time": "09:04:00",
+        "Logout Time": "17:04:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 42,
+        "Date": 45420,
+        "Login Time": "08:55:00",
+        "Logout Time": "18:55:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45421,
+        "Login Time": "08:19:00",
+        "Logout Time": "15:19:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45422,
+        "Login Time": "08:49:00",
+        "Logout Time": "14:49:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 42,
+        "Date": 45425,
+        "Login Time": "09:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45426,
+        "Login Time": "07:28:00",
+        "Logout Time": "17:28:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45427,
+        "Login Time": "10:59:00",
+        "Logout Time": "20:59:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45428,
+        "Login Time": "09:22:00",
+        "Logout Time": "19:22:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45429,
+        "Login Time": "10:45:00",
+        "Logout Time": "20:45:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45432,
+        "Login Time": "10:46:00",
+        "Logout Time": "17:46:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45433,
+        "Login Time": "10:36:00",
+        "Logout Time": "20:36:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45434,
+        "Login Time": "09:36:00",
+        "Logout Time": "16:36:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45435,
+        "Login Time": "08:26:00",
+        "Logout Time": "14:26:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 42,
+        "Date": 45436,
+        "Login Time": "09:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 42,
+        "Date": 45439,
+        "Login Time": "07:39:00",
+        "Logout Time": "14:39:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 42,
+        "Date": 45440,
+        "Login Time": "10:23:00",
+        "Logout Time": "18:23:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 42,
+        "Date": 45441,
+        "Login Time": "10:32:00",
+        "Logout Time": "19:32:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 42,
+        "Date": 45442,
+        "Login Time": "08:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 42,
+        "Date": 45443,
+        "Login Time": "10:26:00",
+        "Logout Time": "18:26:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 197176
+  },
+  {
+    "name": "Paige Wise",
+    "Employee_ID": 43,
+    "salary": 53008,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 43,
+        "Date": 45413,
+        "Login Time": "08:13:00",
+        "Logout Time": "14:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 43,
+        "Date": 45414,
+        "Login Time": "08:44:00",
+        "Logout Time": "18:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 43,
+        "Date": 45415,
+        "Login Time": "10:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45418,
+        "Login Time": "07:12:00",
+        "Logout Time": "13:12:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 43,
+        "Date": 45419,
+        "Login Time": "10:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45420,
+        "Login Time": "10:06:00",
+        "Logout Time": "17:06:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 43,
+        "Date": 45421,
+        "Login Time": "08:25:00",
+        "Logout Time": "16:25:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45422,
+        "Login Time": "10:47:00",
+        "Logout Time": "19:47:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 43,
+        "Date": 45425,
+        "Login Time": "09:33:00",
+        "Logout Time": "17:33:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45426,
+        "Login Time": "08:58:00",
+        "Logout Time": "15:58:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 43,
+        "Date": 45427,
+        "Login Time": "07:05:00",
+        "Logout Time": "15:05:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45428,
+        "Login Time": "07:50:00",
+        "Logout Time": "14:50:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 43,
+        "Date": 45429,
+        "Login Time": "09:47:00",
+        "Logout Time": "18:47:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 43,
+        "Date": 45432,
+        "Login Time": "08:54:00",
+        "Logout Time": "17:54:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 43,
+        "Date": 45433,
+        "Login Time": "07:29:00",
+        "Logout Time": "17:29:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 43,
+        "Date": 45434,
+        "Login Time": "08:11:00",
+        "Logout Time": "16:11:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45435,
+        "Login Time": "08:53:00",
+        "Logout Time": "17:53:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 43,
+        "Date": 45436,
+        "Login Time": "09:18:00",
+        "Logout Time": "19:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 43,
+        "Date": 45439,
+        "Login Time": "07:44:00",
+        "Logout Time": "17:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 43,
+        "Date": 45440,
+        "Login Time": "09:17:00",
+        "Logout Time": "15:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 43,
+        "Date": 45441,
+        "Login Time": "09:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 43,
+        "Date": 45442,
+        "Login Time": "10:35:00",
+        "Logout Time": "18:35:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 43,
+        "Date": 45443,
+        "Login Time": "07:00:00",
+        "Logout Time": "16:00:00",
+        "Hours_Worked": 9
+      }
+    ],
+    "finalSalary": 49474.13333333333
+  },
+  {
+    "name": "David Watson",
+    "Employee_ID": 44,
+    "salary": 192705,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 44,
+        "Date": 45413,
+        "Login Time": "09:15:00",
+        "Logout Time": "15:15:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 44,
+        "Date": 45414,
+        "Login Time": "08:56:00",
+        "Logout Time": "15:56:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 44,
+        "Date": 45415,
+        "Login Time": "08:23:00",
+        "Logout Time": "15:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 44,
+        "Date": 45418,
+        "Login Time": "09:04:00",
+        "Logout Time": "18:04:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 44,
+        "Date": 45419,
+        "Login Time": "09:50:00",
+        "Logout Time": "17:50:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 44,
+        "Date": 45420,
+        "Login Time": "09:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 44,
+        "Date": 45421,
+        "Login Time": "08:27:00",
+        "Logout Time": "18:27:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 44,
+        "Date": 45422,
+        "Login Time": "08:49:00",
+        "Logout Time": "17:49:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 44,
+        "Date": 45425,
+        "Login Time": "08:06:00",
+        "Logout Time": "14:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 44,
+        "Date": 45426,
+        "Login Time": "07:47:00",
+        "Logout Time": "13:47:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 44,
+        "Date": 45427,
+        "Login Time": "10:43:00",
+        "Logout Time": "19:43:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 44,
+        "Date": 45428,
+        "Login Time": "07:29:00",
+        "Logout Time": "15:29:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 44,
+        "Date": 45429,
+        "Login Time": "08:13:00",
+        "Logout Time": "14:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 44,
+        "Date": 45432,
+        "Login Time": "08:09:00",
+        "Logout Time": "18:09:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 44,
+        "Date": 45433,
+        "Login Time": "07:37:00",
+        "Logout Time": "17:37:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 44,
+        "Date": 45434,
+        "Login Time": "07:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 44,
+        "Date": 45435,
+        "Login Time": "07:08:00",
+        "Logout Time": "13:08:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 44,
+        "Date": 45436,
+        "Login Time": "10:37:00",
+        "Logout Time": "18:37:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 44,
+        "Date": 45439,
+        "Login Time": "07:43:00",
+        "Logout Time": "14:43:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 44,
+        "Date": 45440,
+        "Login Time": "07:08:00",
+        "Logout Time": "16:08:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 44,
+        "Date": 45441,
+        "Login Time": "08:18:00",
+        "Logout Time": "15:18:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 44,
+        "Date": 45442,
+        "Login Time": "08:06:00",
+        "Logout Time": "14:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 44,
+        "Date": 45443,
+        "Login Time": "08:19:00",
+        "Logout Time": "18:19:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 192705
+  },
+  {
+    "name": "Regina Hall",
+    "Employee_ID": 45,
+    "salary": 193697,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 45,
+        "Date": 45413,
+        "Login Time": "08:34:00",
+        "Logout Time": "18:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 45,
+        "Date": 45414,
+        "Login Time": "10:07:00",
+        "Logout Time": "18:07:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 45,
+        "Date": 45415,
+        "Login Time": "09:19:00",
+        "Logout Time": "17:19:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 45,
+        "Date": 45418,
+        "Login Time": "07:57:00",
+        "Logout Time": "17:57:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 45,
+        "Date": 45419,
+        "Login Time": "08:09:00",
+        "Logout Time": "16:09:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 45,
+        "Date": 45420,
+        "Login Time": "07:22:00",
+        "Logout Time": "14:22:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 45,
+        "Date": 45421,
+        "Login Time": "07:10:00",
+        "Logout Time": "16:10:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 45,
+        "Date": 45422,
+        "Login Time": "09:27:00",
+        "Logout Time": "16:27:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 45,
+        "Date": 45425,
+        "Login Time": "08:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 45,
+        "Date": 45426,
+        "Login Time": "08:51:00",
+        "Logout Time": "14:51:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45427,
+        "Login Time": "09:29:00",
+        "Logout Time": "15:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45428,
+        "Login Time": "08:03:00",
+        "Logout Time": "15:03:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 45,
+        "Date": 45429,
+        "Login Time": "09:05:00",
+        "Logout Time": "16:05:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 45,
+        "Date": 45432,
+        "Login Time": "10:53:00",
+        "Logout Time": "16:53:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45433,
+        "Login Time": "10:35:00",
+        "Logout Time": "19:35:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 45,
+        "Date": 45434,
+        "Login Time": "09:23:00",
+        "Logout Time": "16:23:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 45,
+        "Date": 45435,
+        "Login Time": "07:21:00",
+        "Logout Time": "13:21:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45436,
+        "Login Time": "09:36:00",
+        "Logout Time": "15:36:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45439,
+        "Login Time": "09:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 45,
+        "Date": 45440,
+        "Login Time": "09:58:00",
+        "Logout Time": "15:58:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45441,
+        "Login Time": "07:26:00",
+        "Logout Time": "13:26:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 45,
+        "Date": 45442,
+        "Login Time": "08:30:00",
+        "Logout Time": "18:30:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 45,
+        "Date": 45443,
+        "Login Time": "07:54:00",
+        "Logout Time": "13:54:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 174327.3
+  },
+  {
+    "name": "Brittney Rodriguez",
+    "Employee_ID": 46,
+    "salary": 104197,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 46,
+        "Date": 45413,
+        "Login Time": "07:08:00",
+        "Logout Time": "15:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45414,
+        "Login Time": "10:01:00",
+        "Logout Time": "19:01:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 46,
+        "Date": 45415,
+        "Login Time": "07:10:00",
+        "Logout Time": "14:10:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 46,
+        "Date": 45418,
+        "Login Time": "09:50:00",
+        "Logout Time": "17:50:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45419,
+        "Login Time": "07:13:00",
+        "Logout Time": "13:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 46,
+        "Date": 45420,
+        "Login Time": "07:23:00",
+        "Logout Time": "17:23:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 46,
+        "Date": 45421,
+        "Login Time": "10:30:00",
+        "Logout Time": "19:30:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 46,
+        "Date": 45422,
+        "Login Time": "08:32:00",
+        "Logout Time": "18:32:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 46,
+        "Date": 45425,
+        "Login Time": "09:55:00",
+        "Logout Time": "17:55:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45426,
+        "Login Time": "10:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 46,
+        "Date": 45427,
+        "Login Time": "09:35:00",
+        "Logout Time": "17:35:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45428,
+        "Login Time": "08:08:00",
+        "Logout Time": "16:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45429,
+        "Login Time": "09:52:00",
+        "Logout Time": "18:52:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 46,
+        "Date": 45432,
+        "Login Time": "09:41:00",
+        "Logout Time": "17:41:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45433,
+        "Login Time": "07:24:00",
+        "Logout Time": "15:24:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 46,
+        "Date": 45434,
+        "Login Time": "10:03:00",
+        "Logout Time": "19:03:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 46,
+        "Date": 45435,
+        "Login Time": "07:30:00",
+        "Logout Time": "17:30:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 46,
+        "Date": 45436,
+        "Login Time": "07:03:00",
+        "Logout Time": "13:03:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 46,
+        "Date": 45439,
+        "Login Time": "08:49:00",
+        "Logout Time": "14:49:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 46,
+        "Date": 45440,
+        "Login Time": "09:18:00",
+        "Logout Time": "19:18:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 46,
+        "Date": 45441,
+        "Login Time": "07:50:00",
+        "Logout Time": "16:50:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 46,
+        "Date": 45442,
+        "Login Time": "09:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 46,
+        "Date": 45443,
+        "Login Time": "09:29:00",
+        "Logout Time": "16:29:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 97250.53333333334
+  },
+  {
+    "name": "Clifford Smith",
+    "Employee_ID": 47,
+    "salary": 116121,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 47,
+        "Date": 45413,
+        "Login Time": "07:47:00",
+        "Logout Time": "16:47:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 47,
+        "Date": 45414,
+        "Login Time": "09:15:00",
+        "Logout Time": "15:15:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45415,
+        "Login Time": "07:42:00",
+        "Logout Time": "13:42:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45418,
+        "Login Time": "09:48:00",
+        "Logout Time": "17:48:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 47,
+        "Date": 45419,
+        "Login Time": "07:03:00",
+        "Logout Time": "15:03:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 47,
+        "Date": 45420,
+        "Login Time": "07:00:00",
+        "Logout Time": "13:00:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45421,
+        "Login Time": "07:34:00",
+        "Logout Time": "17:34:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 47,
+        "Date": 45422,
+        "Login Time": "10:24:00",
+        "Logout Time": "19:24:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 47,
+        "Date": 45425,
+        "Login Time": "07:09:00",
+        "Logout Time": "13:09:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45426,
+        "Login Time": "07:29:00",
+        "Logout Time": "14:29:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 47,
+        "Date": 45427,
+        "Login Time": "10:01:00",
+        "Logout Time": "18:01:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 47,
+        "Date": 45428,
+        "Login Time": "08:48:00",
+        "Logout Time": "16:48:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 47,
+        "Date": 45429,
+        "Login Time": "08:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 47,
+        "Date": 45432,
+        "Login Time": "07:52:00",
+        "Logout Time": "13:52:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45433,
+        "Login Time": "08:04:00",
+        "Logout Time": "14:04:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45434,
+        "Login Time": "09:37:00",
+        "Logout Time": "16:37:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 47,
+        "Date": 45435,
+        "Login Time": "08:51:00",
+        "Logout Time": "18:51:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 47,
+        "Date": 45436,
+        "Login Time": "08:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 47,
+        "Date": 45439,
+        "Login Time": "07:03:00",
+        "Logout Time": "13:03:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45440,
+        "Login Time": "07:53:00",
+        "Logout Time": "13:53:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 47,
+        "Date": 45441,
+        "Login Time": "10:41:00",
+        "Logout Time": "19:41:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 47,
+        "Date": 45442,
+        "Login Time": "08:55:00",
+        "Logout Time": "16:55:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 47,
+        "Date": 45443,
+        "Login Time": "07:09:00",
+        "Logout Time": "14:09:00",
+        "Hours_Worked": 7
+      }
+    ],
+    "finalSalary": 106444.25
+  },
+  {
+    "name": "Jessica Duncan",
+    "Employee_ID": 48,
+    "salary": 131977,
+    "employeeType": "Staff",
+    "timesheet": [
+      {
+        "Employee": 48,
+        "Date": 45413,
+        "Login Time": "08:40:00",
+        "Logout Time": "18:40:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 48,
+        "Date": 45414,
+        "Login Time": "09:22:00",
+        "Logout Time": "18:22:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 48,
+        "Date": 45415,
+        "Login Time": "09:23:00",
+        "Logout Time": "15:23:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 48,
+        "Date": 45418,
+        "Login Time": "07:30:00",
+        "Logout Time": "17:30:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 48,
+        "Date": 45419,
+        "Login Time": "09:00:00",
+        "Logout Time": "17:00:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 48,
+        "Date": 45420,
+        "Login Time": "07:47:00",
+        "Logout Time": "17:47:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 48,
+        "Date": 45421,
+        "Login Time": "07:59:00",
+        "Logout Time": "14:59:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 48,
+        "Date": 45422,
+        "Login Time": "08:04:00",
+        "Logout Time": "14:04:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 48,
+        "Date": 45425,
+        "Login Time": "10:56:00",
+        "Logout Time": "17:56:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 48,
+        "Date": 45426,
+        "Login Time": "10:08:00",
+        "Logout Time": "18:08:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 48,
+        "Date": 45427,
+        "Login Time": "10:09:00",
+        "Logout Time": "19:09:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 48,
+        "Date": 45428,
+        "Login Time": "09:28:00",
+        "Logout Time": "18:28:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 48,
+        "Date": 45429,
+        "Login Time": "07:01:00",
+        "Logout Time": "15:01:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 48,
+        "Date": 45432,
+        "Login Time": "08:27:00",
+        "Logout Time": "17:27:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 48,
+        "Date": 45433,
+        "Login Time": "10:43:00",
+        "Logout Time": "16:43:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 48,
+        "Date": 45434,
+        "Login Time": "07:17:00",
+        "Logout Time": "14:17:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 48,
+        "Date": 45435,
+        "Login Time": "07:21:00",
+        "Logout Time": "17:21:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 48,
+        "Date": 45436,
+        "Login Time": "08:09:00",
+        "Logout Time": "15:09:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 48,
+        "Date": 45439,
+        "Login Time": "07:16:00",
+        "Logout Time": "13:16:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 48,
+        "Date": 45440,
+        "Login Time": "10:33:00",
+        "Logout Time": "19:33:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 48,
+        "Date": 45441,
+        "Login Time": "10:49:00",
+        "Logout Time": "20:49:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 48,
+        "Date": 45442,
+        "Login Time": "07:30:00",
+        "Logout Time": "13:30:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 48,
+        "Date": 45443,
+        "Login Time": "09:09:00",
+        "Logout Time": "15:09:00",
+        "Hours_Worked": 6
+      }
+    ],
+    "finalSalary": 123178.53333333333
+  },
+  {
+    "name": "Gregory Burns",
+    "Employee_ID": 49,
+    "salary": 81923,
+    "employeeType": "Executives",
+    "timesheet": [
+      {
+        "Employee": 49,
+        "Date": 45413,
+        "Login Time": "10:54:00",
+        "Logout Time": "20:54:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45414,
+        "Login Time": "08:19:00",
+        "Logout Time": "14:19:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 49,
+        "Date": 45415,
+        "Login Time": "08:00:00",
+        "Logout Time": "16:00:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 49,
+        "Date": 45418,
+        "Login Time": "10:23:00",
+        "Logout Time": "19:23:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 49,
+        "Date": 45419,
+        "Login Time": "09:40:00",
+        "Logout Time": "19:40:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45420,
+        "Login Time": "08:42:00",
+        "Logout Time": "14:42:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 49,
+        "Date": 45421,
+        "Login Time": "09:54:00",
+        "Logout Time": "15:54:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 49,
+        "Date": 45422,
+        "Login Time": "10:03:00",
+        "Logout Time": "18:03:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 49,
+        "Date": 45425,
+        "Login Time": "09:44:00",
+        "Logout Time": "19:44:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45426,
+        "Login Time": "08:31:00",
+        "Logout Time": "17:31:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 49,
+        "Date": 45427,
+        "Login Time": "09:02:00",
+        "Logout Time": "19:02:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45428,
+        "Login Time": "08:16:00",
+        "Logout Time": "18:16:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45429,
+        "Login Time": "10:17:00",
+        "Logout Time": "18:17:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 49,
+        "Date": 45432,
+        "Login Time": "08:16:00",
+        "Logout Time": "17:16:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 49,
+        "Date": 45433,
+        "Login Time": "09:42:00",
+        "Logout Time": "18:42:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 49,
+        "Date": 45434,
+        "Login Time": "08:15:00",
+        "Logout Time": "17:15:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 49,
+        "Date": 45435,
+        "Login Time": "07:28:00",
+        "Logout Time": "14:28:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 49,
+        "Date": 45436,
+        "Login Time": "07:22:00",
+        "Logout Time": "17:22:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45439,
+        "Login Time": "07:55:00",
+        "Logout Time": "14:55:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 49,
+        "Date": 45440,
+        "Login Time": "10:58:00",
+        "Logout Time": "19:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 49,
+        "Date": 45441,
+        "Login Time": "08:33:00",
+        "Logout Time": "18:33:00",
+        "Hours_Worked": 10
+      },
+      {
+        "Employee": 49,
+        "Date": 45442,
+        "Login Time": "07:39:00",
+        "Logout Time": "13:39:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 49,
+        "Date": 45443,
+        "Login Time": "10:08:00",
+        "Logout Time": "18:08:00",
+        "Hours_Worked": 8
+      }
+    ],
+    "finalSalary": 77826.85
+  },
+  {
+    "name": "Mrs. Regina Spencer",
+    "Employee_ID": 50,
+    "salary": 134176,
+    "employeeType": "Management",
+    "timesheet": [
+      {
+        "Employee": 50,
+        "Date": 45413,
+        "Login Time": "07:09:00",
+        "Logout Time": "13:09:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45414,
+        "Login Time": "08:37:00",
+        "Logout Time": "14:37:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45415,
+        "Login Time": "07:51:00",
+        "Logout Time": "13:51:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45418,
+        "Login Time": "07:43:00",
+        "Logout Time": "15:43:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 50,
+        "Date": 45419,
+        "Login Time": "08:06:00",
+        "Logout Time": "14:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45420,
+        "Login Time": "09:58:00",
+        "Logout Time": "18:58:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 50,
+        "Date": 45421,
+        "Login Time": "08:22:00",
+        "Logout Time": "15:22:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 50,
+        "Date": 45422,
+        "Login Time": "09:32:00",
+        "Logout Time": "15:32:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45425,
+        "Login Time": "09:02:00",
+        "Logout Time": "15:02:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45426,
+        "Login Time": "08:36:00",
+        "Logout Time": "15:36:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 50,
+        "Date": 45427,
+        "Login Time": "08:17:00",
+        "Logout Time": "14:17:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45428,
+        "Login Time": "09:13:00",
+        "Logout Time": "15:13:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45429,
+        "Login Time": "07:17:00",
+        "Logout Time": "15:17:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 50,
+        "Date": 45432,
+        "Login Time": "09:07:00",
+        "Logout Time": "18:07:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 50,
+        "Date": 45433,
+        "Login Time": "09:29:00",
+        "Logout Time": "15:29:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45434,
+        "Login Time": "09:27:00",
+        "Logout Time": "16:27:00",
+        "Hours_Worked": 7
+      },
+      {
+        "Employee": 50,
+        "Date": 45435,
+        "Login Time": "09:21:00",
+        "Logout Time": "18:21:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 50,
+        "Date": 45436,
+        "Login Time": "10:30:00",
+        "Logout Time": "16:30:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45439,
+        "Login Time": "08:18:00",
+        "Logout Time": "16:18:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 50,
+        "Date": 45440,
+        "Login Time": "07:16:00",
+        "Logout Time": "15:16:00",
+        "Hours_Worked": 8
+      },
+      {
+        "Employee": 50,
+        "Date": 45441,
+        "Login Time": "08:30:00",
+        "Logout Time": "17:30:00",
+        "Hours_Worked": 9
+      },
+      {
+        "Employee": 50,
+        "Date": 45442,
+        "Login Time": "10:06:00",
+        "Logout Time": "16:06:00",
+        "Hours_Worked": 6
+      },
+      {
+        "Employee": 50,
+        "Date": 45443,
+        "Login Time": "09:21:00",
+        "Logout Time": "19:21:00",
+        "Hours_Worked": 10
+      }
+    ],
+    "finalSalary": 134176
+  }
+]
